@@ -3,7 +3,7 @@
     <title>Ponte d&#x27;Arte, Portugal</title>
     <link href="https://pontedarte.org/feed.xml" rel="self" />
     <link href="https://pontedarte.org" />
-    <updated>2019-09-10T00:26:49+02:00</updated>
+    <updated>2019-09-10T00:53:54+02:00</updated>
     <author>
         <name>Ponte d&#x27;Arte</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://pontedarte.org/conimbriga.html"/>
         <id>https://pontedarte.org/conimbriga.html</id>
 
-        <updated>2019-09-09T16:07:44+02:00</updated>
+        <updated>2019-09-10T00:42:49+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -104,24 +104,16 @@
         </content>
     </entry>
     <entry>
-        <title>The Adega (library &amp; meetings)</title>
+        <title>The Adega</title>
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
         <link href="https://pontedarte.org/the-adega-library-and-meetings.html"/>
         <id>https://pontedarte.org/the-adega-library-and-meetings.html</id>
 
-        <updated>2019-09-09T15:47:52+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Kitchen, dining room, library (adega) meeting space for small groups (10 people&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><span style="font-weight: 400;">Kitchen, dining room, library (adega) meeting space for small groups (10 people max).</span></p>
-            ]]>
-        </content>
+        <updated>2019-09-10T00:53:34+02:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
         <title>The Garden</title>
