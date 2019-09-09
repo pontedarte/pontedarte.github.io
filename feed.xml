@@ -1,439 +1,221 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Ponte d&#x27;Arte, Portugal</title>
-    <link href="https://pontedarte.github.io/feed.xml" rel="self" />
-    <link href="https://pontedarte.github.io" />
-    <updated>2019-09-08T12:08:29+02:00</updated>
+    <link href="https://pontedarte.org/feed.xml" rel="self" />
+    <link href="https://pontedarte.org" />
+    <updated>2019-09-09T16:23:29+02:00</updated>
     <author>
         <name>Ponte d&#x27;Arte</name>
     </author>
-    <id>https://pontedarte.github.io</id>
+    <id>https://pontedarte.org</id>
 
     <entry>
-        <title>Riverside apartment</title>
+        <title>Conimbriga</title>
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://pontedarte.github.io/riverside-apartment.html"/>
-        <id>https://pontedarte.github.io/riverside-apartment.html</id>
+        <link href="https://pontedarte.org/conimbriga.html"/>
+        <id>https://pontedarte.org/conimbriga.html</id>
 
-        <updated>2019-08-11T04:21:19+02:00</updated>
+        <updated>2019-09-09T16:07:44+02:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/17/download.png" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/Bedroom-Apartment.jpg" ><img src="https://pontedarte.github.io/media/posts/17/gallery/Bedroom-Apartment-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-thumbnail.png" alt="" width="768" height="558"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-1.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-1-thumbnail.png" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-2.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-2-thumbnail.png" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-3.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-3-thumbnail.png" alt="" width="701" height="1052"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-4.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-4-thumbnail.png" alt="" width="768" height="576"></a></figure>
-</div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>Smallest Art Gallery in Portugal</title>
+        <title>Bussaco Palace</title>
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://pontedarte.github.io/smallest-art-gallery-in-portugal.html"/>
-        <id>https://pontedarte.github.io/smallest-art-gallery-in-portugal.html</id>
+        <link href="https://pontedarte.org/bussaco-palace.html"/>
+        <id>https://pontedarte.org/bussaco-palace.html</id>
 
-        <updated>2019-08-11T04:14:27+02:00</updated>
+        <updated>2019-09-09T16:07:18+02:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/16/Ponte-de-Mucela-57.jpg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-51.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-51-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-52.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-52-thumbnail.jpg" alt="" width="640" height="427"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-58.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-58-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
-<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-59.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-59-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
-</div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>Historical Documents mentioning the Bridge at Mucela</title>
+        <title>Celia de Villiers</title>
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://pontedarte.github.io/historical-documents-mentioning-the-bridge-at-mucela.html"/>
-        <id>https://pontedarte.github.io/historical-documents-mentioning-the-bridge-at-mucela.html</id>
+        <link href="https://pontedarte.org/celia-de-villiers.html"/>
+        <id>https://pontedarte.org/celia-de-villiers.html</id>
 
-        <updated>2019-08-11T03:57:19+02:00</updated>
+        <updated>2019-09-09T16:17:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/15/RM2501-630.jpg" alt="" />
-                    We have located a few historical documents so far that tell us the&hellip;
+                        <img src="https://pontedarte.org/media/posts/28/celia-de-villiers_web2.jpg" alt="" />
+                    BiographyCelia de Villiers holds a MA in Visual Arts Cum laude (UNISA),&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/15/RM2501-630.jpg" alt="" />
-                <div>We have located a few historical documents so far that tell us the story of this bridge. (<em>Map carried by Marshal Massena when his army invaded the Kingdom of Portugal in September 1810.  </em>Print in João Palha, Lisbon: Lithographs of the National Press, [sd].)</div>
-<div> </div>
-<div>An Excerpt from "Eloquent Soldier: The Peninsular War Journals of Lieutenant Charles Crowe of the Inniskillings, 1812-1814."  Edited by Gareth Glover. (p 33)</div>
-<p>"23 December.  Crossed the river Alva, a branch of the Mondego, a very rapid stream, confined on each side by perpendicular rocks.The stone bridge is a noble structureof three large arches, the piers rising from the vast chasm below have a very imposing effect and prove that the architect must have been a master of the art. The French in their retreat left a rear guard of more than a thousand men to defend the approach to the bridge, while their engineers were occupied in blowing up the centre arch. This guard then endeavoured to join the army by another route, but not being able to find another passage over the Alva, were obliged to return to this bridge and endeavour to form a passage over the break by cutting down some large pines growing near. On the second day of their laborious task, they were attacked by the British and Spanish advanced guard. They fought with the desperation of men without hope of succour, and very few survived to lay down their arms. The pines which these poor fellows had felled greatly accelerated the work of our engineers, and when we passed over we found them well tracked by the artillery and cavalry of the combined army. While crossing Hambly and I duly attended to the injunction of our late kind host, good Padre George, as we dubbed him, and took especial notice of a good square house three stories high, standing within half musket shot of the bridge, and between that and a road beside the river, and which bore evident confirmation of the following circumstances related by the padre. The lateowner, actuated by an ill-directed patriotic zeal, barricaded the lower parts, and from above, kept up a deadly fire on the party employed in blowing up the centre arch of the bridge. Exasperated by such temerity, some of the French soldiers showed a daring front, as if they were about to storm the little citadel, in meantime, another party stole round to the rear of the house, and by unroofing a lower building gained an entrance. They took their prisoner on their route, and then proved themselves true Frenchmen by having recourse to the instinct of the tiger and the monkey, as assigned to them by their countryman Voltaire: they deprived their hapless victim of his ears, his nose, his lips, his eyelids, scooped out his eyes, and left him by the road side in this agonizing state, till death came to his relief.We were this day joined by two more brother officers. When passing a solitary and deserted hut, Lieutenant Hunter noticed some fragments of clothing, which looked very fresh, and induced him to search around when he discovered in the ditch of an adjoining field, the naked corpse of an Englishman. This was too strong a lesson to be lost; we therefore made our men go and look at the remains of the murdered man and in strong terms pointed out the fate they must expect if they left their ranks, and turned marauders. This had a very good effect for the rest of our march.We took up our quarters in Sobreira and  [Vale de] Sao Martinho.”</p>
-<div> </div>
-<div>
-<div><hr></div>
-<div> </div>
-</div>
-<div> </div>
-<div>Further  Reading:  <a href="evernote:///view/47905758/s235/d949c2dc-bbbe-4b50-b740-6dbfaccacaf6/d949c2dc-bbbe-4b50-b740-6dbfaccacaf6/">Eyewitness to the Peninsular War. Book.</a></div>
-<div> </div>
-<div><hr></div>
-<div> </div>
-<div>
-<div>Summary and translation (unedited):</div>
-<div> </div>
-<div>"Withdrawal of the the Army of Portugal in the Campaign of 1810-1811." Bruno Miguel Pack Martins, Master’s Thesis in Military History, 09-30-2013</div>
-<div><a href="http://repositorio.ul.pt/bitstream/10451/12220/1/ulfl157007_tm.pdf">http://repositorio.ul.pt/bitstream/10451/12220/1/ulfl157007_tm.pdf</a></div>
-<hr>
-<div> </div>
-<div>p 2</div>
-<div>Ilustração 7 – Itinerário da retirada do Armée du Portugal. Mesmo até à chegada à Mucela observa~se que o Vale do Mondego e Coimbra foi o principal objectivo. A pressão inglesa obriga a força francesa a ir para Celorico e a posicionarem nessa zona e na Guarda.</div>
-<div> </div>
-<div>Illustration 7 - Itinerary of the withdrawal of the Armée du Portugal. Even on arrival at Mucela</div>
-<div>it is observed that the Mondego Valley and Coimbra was the main objective. British pressure forces</div>
-<div>force to go to Celorico and position it in that area and in Guarda.</div>
-<div> </div>
-<hr>
-<div>p58</div>
-<div> </div>
-<div>2- Batalha de Redinha 12 de Março de 1811</div>
-<div>Após a vitória estratégica em Pombal não havia tempo para festejar, o avanço</div>
-<div>inglês era ainda uma ameaça e quando se soube que preparam-se para flanquear após</div>
-<div>conseguirem atravessar o vale do Soure , acelerou ainda mais as mentes do comando</div>
-<div>francês. Ney sabe que quanto mais célere fôr nas suas movimentações, mais garantias</div>
-<div>tem de manter os ingleses à distância do corpo principal da retirada e da sua bagagem.</div>
-<div>A situação francesa ainda ficou mais complicada com o abandono de D’Erlon. O</div>
-<div>reconhecimento feito por Mountbrun e Valazé tem frutos e descobrem na Mucela uma</div>
-<div>ponte para cruzar o Mondego que vão tentar reconstruir.</div>
-<div> </div>
-<div>2 - Battle of Redinha March 12, 1811</div>
-<div>  After the strategic victory in Pombal there was no time to celebrate, the</div>
-<div>English was still a threat and when it was learned that they are preparing to flank after</div>
-<div>to cross the valley of the Soure, further accelerated the minds of the</div>
-<div>French. Ney knows that the faster he gets in his movements, the more guarantees he</div>
-<div>you must keep the British away from the main body of the retreat and your luggage.</div>
-<div>The French situation was even more complicated with the abandonment of D'Erlon. O</div>
-<div>recognition made by Mountbrun and Valazé has fruits and discover in Mucela a</div>
-<div>bridge to cross the Mondego they will try to rebuild.</div>
-<div> </div>
-<hr>
-<div>p 82</div>
-<div> </div>
-<div>5- Combate de Foz de Arouce 15 de Março de 1811</div>
-<div> </div>
-<div>Enquanto isto sucedia as forças de Drouet e Reynier movimentavam-se. Conde</div>
-<div>de Erlon saí de Miranda do Corvo e o II Corpo, pela margem direita, dirige-se a Foz de</div>
-<div>Arouce. Após alguma organização de Massena, o exército francês fazia agora um</div>
-<div>movimento único em direcção a Foz de Arouce, como referido o II Corpo já se</div>
-<div>encamihava pelo flanco esquerdo, o VI Corpo pelo centro e o VIII Corpo pelo lado</div>
-<div>direito. Entretando a ponte de Mucela é alvo de ataque por parte das milicias de Trant, o</div>
-<div>que obriga Reynier a ceder algumas forças ao batalhão que Drouet aí deixou para</div>
-<div>proteger as obras. A ponte teria que estar preparada para receber as forças francesas o</div>
-<div>mais rápido possível.</div>
-<div> </div>
-<div>Meanwhile, Drouet and Reynier's forces were moving. Count</div>
-<div>of Erlon left Miranda do Corvo and II Corps, on the right bank, goes to Foz de</div>
-<div>Arouce. After some Massena organization, the French army was now</div>
-<div>movement towards Foz de Arouce, as mentioned the II</div>
-<div>the left flank, the VI Body by the center and the VIII Body by the side</div>
-<div>right. While the Mucela bridge is under attack by the Trant militias, the</div>
-<div>that forces Reynier to give some forces to the battalion that Drouet left there to</div>
-<div>protect the works. The bridge would have to be prepared to receive the French forces</div>
-<div>as soon as possible.</div>
-<div> </div>
-<hr>
-<div>p66</div>
-<div> </div>
-<div>III- Em direcção a Celorico</div>
-<div>O avanço francês prosseguiu. Drouet e as suas forças chegaram à Ponte de Mucela no dia 15 de Março e quando Massena chegou no dia seguinte , Valazé e os seus sapadores já trabalhavam na reparação da ponte, cumprindo a sua missão como</div>
-<div>vanguarda de uma retirada. Com as obras finalizads , Drouet partiu finalmente para Celorico para ir ter com Claparéde e cumprir com a missão que lhe foi estabelecida por Napoleão. A serra de Igreja a Nova seria a zona de posição para o VI Corpo e para o VIII Corpo. Já o II Corpo de Reynier avançou para Arganil para assegurar a esquerda do rio Alva. O VI Corpo ainda atrasou-se em Ceira , apenas Loison e Mermet avançaram para Venda Nova. Ney havia ficado com Marchand no local a assegurar que tudo corresse bem através da sua presença. Devido à ameaça inglesa ainda enviou ordens para que as suas divisões parassem a sua marcha de forma a prestar-lhe apoio enquanto controlasse as colinas perto do Rio Ceira. Sem esperar por Massena mandou avisar que ia colocar as forças na margem direita e gaurdar com a infantaria ligeira a testa da ponte e a margem esquerda.Reynier não acompanhou estes movimentos e por momentos uma grave lacuna pareceu no lado esquerdo, já que preferiu ficar no Sarzedo.</div>
-<div> </div>
-<div>III- Towards Celorico</div>
-<div> The French advance continued. Drouet and his forces arrived at Mucela Bridge on March 15 and when Massena arrived the next day, Valazé and his sappers were already working on repairing the bridge, fulfilling their mission as</div>
-<div>the forefront of a retreat. With the works finished, Drouet finally left for Celorico to go to Claparete and fulfill the mission that was established to him by Napoleon. The saw of Church to New would be the zone of position for the VI Corps and for the VIII Corps. Already the Second Corps of Reynier advanced to Arganil to secure the left of the river Alva. The VI Corps was still late in Ceira, only Loison and Mermet advanced to Venda Nova. Ney had stayed with Marchand on the spot to make sure everything went well through his presence. Due to the English threat he still issued orders for his divisions to stop their march in order to support him as he controlled the hills near the Rio Ceira. Without waiting for Massena he sent word that he was going to put his forces on the right bank and gaurdar with the light infantry on the forehead of the bridge and the left bank. Reynier did not follow these movements and at times a serious gap appeared on the left side, since he preferred to stay in the Sarzedo.</div>
-<div> </div>
-<hr>
-<div>p66</div>
-<div> </div>
-<div>Isto não agradou o comando e Pelet dirigiu-se a Ceira para se encontrar com Ney que mantinha-se com a divisão de Marchand no cume que vislumbrava o rio. Aí o Marechal revelaria a Pelet (Pelet,476,1973) que seria atacado, mas que iria fazer de tudo para ajudar atravessar o rio. Apesar das ordens anteriores, Ney agora sugeria que iria defender a retirada da Ponte da Mucela com apenas uma <a href="http://xn--diviso-7ta.as/">divisão</a>. As criticas vieram logo ao de cima pois parecia uma ideia suicida e que era melhor retirar-se de forma alternada com as suas divisões do que manter-se sozinho contra o exército inteiro de Wellington. E assim ficou, Massena deixou Ney na sua posição com apenas uma divisão, constituida pelo 6º Regimento de Infantaria Ligeira e pelos 38º, 69º e 76º Regimentos de Infantaria, e reorganizou as forças de outra forma para atravessarem a ponte. A divisão de Mermet ficou a uma boa distância da ponte, mas colocado numa zona cheia de rochas que serviriam de defesas naturais para posicionar a divisão e Loison ficou na Venda Nova. Para Ferey deixou-o mais à frente de Mermet de modo as suas forças servirem de ligação com Ney. Quanto ao VIII Corpo, Solignac ficou na Igreja Nova e Clauzel foi para o outro lado da margem do rio Alva de modo a proteger a marcha. A marcha fez-se primeiro com os rebanhos e o equipamento de sapadores e depois para testar a ponte usou-se equipamento de forja. Ainda houve atrasos por parte do II Corpo, ficaram na aldeia de Sortelha, mas a travessia da ponte correu bem.O VI Corpo fez o seu trabalho ficando a proteger a travessia um pouco antes da ponte e depois de tudo efectuado foram os últimos atravessar. Da ameaça inglesa houve apenas uma pequena troca de fogo entre duas pequenas forças irrisórias, cerca de 10 cavaleiros franceses contra cerca 20-30 ingleses (infantes e cavaleiros). Quando os ingleses chegaram, a ponte estava destruída e o exército francês seguia em segurança até Celorico.</div>
-<div> </div>
-<div>This displeased the command, and Pelet went to Ceira to meet Ney, who was keeping with Marchand's division on the summit that glimpsed the river. There the Marshal would tell Pelet (Pelet, 476,1973) that he would be attacked, but that he would do anything to help cross the river. Despite previous orders, Ney now suggested that he would defend the withdrawal of the Ponte de la Mucela with only one division. Criticism came soon enough because it seemed like a suicidal idea and that it was better to withdraw alternately from its divisions than to stand alone against Wellington's entire army. And so it was, Massena left Ney in his position with only one division, made up of the 6th Light Infantry Regiment and the 38th, 69th, and 76th Infantry Regiments, and reorganized forces otherwise to cross the bridge. Mermet's division was a good distance from the bridge, but placed in a zone full of rocks that would serve as natural defenses to position the division and Loison remained in Venda Nova. For Ferey he left him ahead of Mermet so that his forces served as a liaison with Ney. As for the VIII Corps, Solignac remained in the New Church and Clauzel went to the other side of the bank of the river Alva in order to protect the march. The march was made first with the herds and the equipment of sappers and later to test the bridge was used equipment of forge. There were still delays on the part of the II Corps, they stayed in the village of Sortelha, but the crossing of the bridge went well. The VI Corps did its work to protect the crossing a little before the bridge and after all done they were the last to cross. From the English threat there was only a small exchange of fire between two small derisory forces, about 10 French knights against about 20-30 Englishmen (infantrymen and knights). When the English arrived, the bridge was destroyed and the French army was safely on its way to Celorico.</div>
-<div> </div>
-<hr>
-<div>p67</div>
-<div> </div>
-<div>Após atravessarem o Rio Alva a pressão inglesa começa-se a sentir.Ney era</div>
-<div>pressionado na Murcela pela Divisão Ligeira e pela 6ª Divisão (que se instalaram na margem esquerda do Alva) enquanto 3 divisões (a 1ª, a 3º e 5ª)atravessaram a serra da Quiteira (Napier,336,1873) para flanquear o exército francês no Pombeiro (Horward,480,1973), já no Mondego Trant e Wilson iniciavam a marcha para cortar a retirada francesa. Devido a isto Ney tem a sua esquerda em perigo e escreve a Massena que sem ordens superiores para avançar terá de sair da posição para poder salvar o seu VI Corpo. Sem rodeios, avança para Galizes à espera de novas ordens. Este acto foi visto como mais um desafio à autoridade de Massena, apesar de Ney ter razão que a sua esquerda estava em perigo e acrescentou que a ponte do Bispo não estava guardada e não foi reconhecida e que o seu VI Corpo ainda não tinha tido um momento de descanso (Pelet,482,1973).</div>
-<div>Apesar de tudo os franceses a acção de rectaguarda na Ponte da Mucela foi a</div>
-<div>última. Chegando a Celorico o exército podia reorganizar-se e analisar qual o melhor objectivo para as suas forças, região do Mondego ou o regresso a Espanha.</div>
-<div> </div>
-<div>After crossing the River Alva the English pressure begins to feel.</div>
-<div>(on the left bank of the Alva) while three divisions (1st, 3rd and 5th) crossed the Quiteira mountain range (Napier, 336,1873) to flank the French army in the Pombeiro (Horward, 480,1973), already in Mondego Trant and Wilson began the march to cut the French retreat. Due to this Ney has his left in danger and writes to Massena that without superior orders to advance will have to leave the position to be able to save his VI Body. He goes straight to Galizes, waiting for new orders. This act was seen as a further challenge to Massena's authority, although Ney was right that his left was in danger and added that the Bishop's bridge was not guarded and was not recognized and that his VI Corps had not yet had a moment of rest (Pelet, 482,1973).</div>
-<div> </div>
-<div>In spite of all the French the back-action on the Mucela Bridge was the</div>
-<div>last. Arriving at Celorico the army could reorganize itself and analyze what the best objective for its forces, region of the Mondego or the return to Spain.</div>
-<div> </div>
-<hr>
-<div>p 75</div>
-<div> </div>
-<div>Mas Massena cometeu erros, a perda de Coimbra pode ser considerada rídicula perguntado-se como é possível deixar uma mera companhia guardar um ponto estratégico que assegurava o controlo do Mondego e podia servir de plataforma para invadir o Porto ou Lisboa. A presença da vulga madame X pode ser adicionada pois chegou a atrasar por várias vezes a marcha antes de chegar o Buçaco, contudo porque não antes referir a pressa em chegar a Lisboa e apanhar os ingleses. Após Coimbra, Massena deveria ter avançado com calma para Santarém deixando um dos Corpos de Exército na rectaguarda em Coimbra. A partir de uma posição defensiva em Santarém este podia bater o terreno e verificar que defesas Lisboa possuía e recuar de seguida</div>
-<div>para segurança do Vale do Mondego, mais rico que devastado Vale do Tejo. Em vez disso aproximou-se de Lisboa com o sonho de poder atacar a cidade e perdeu Coimbra no processo. Assim teve de recuar para Santarém e esperar na região a chegada de reforços ou notícias de Soult. Ficando encurralado entre as milicias em Coimbra a ameaçar Almeida e os ingleses na zona de Alenquer, é obvio que Massena já não podia fazer mais nada, se arriscasse ir a Coimbra e ocupar o Vale do Mondego teria os ingleses na peugada como se veio observar em Março de 1811. Em poucas palavras na</div>
-<div>primeira fase a perda de Coimbra foi vital para o destino do Armée du Portugal que resultou numa espera desmoralizante e fome.</div>
-<div>Na retirada o afastamento de Ney foi uma injustiça a certo ponto. Até à chegada a Celorico comportou-se de maneira corajosa e pôs em cheque as movimentações inglesas brilhando efusivamente na Redinha. Soube utilizar roturas de combate e a movimentação por posições com bastante eficácia. A sua prestação foi o complemento ideia para o plano de Massena cujo itinerário soube tirar partido das vantagens do terro no como na já referida Redinha e por exemplo na Ponte da Mucela. Preferindo deslocar por duas estradas e convergindo em locais estratégicos, soube ter sempre o exército em</div>
-<div> </div>
-<div>But Massena made mistakes, the loss of Coimbra can be considered as a riddle. It was asked how it is possible to let a mere company keep a strategic point that ensured Mondego control and could serve as a platform to invade Porto or Lisbon. The presence of the vulgar Madame X can be added because it arrived to delay several times the march before arriving Buçaco, however because not before mention the haste to arrive at Lisbon and to catch the English. After Coimbra, Massena should have advanced calmly to Santarém leaving one of the Corps of the Army in the rear in Coimbra. From a defensive position in Santarém this could hit the ground and check that defenders Lisbon possessed and then retreat for security of the Mondego Valley, richer than devastated Tagus Valley. Instead he approached Lisbon with the dream of being able to attack the city and lost Coimbra in the process. So he had to retreat to Santarem and wait in the region for reinforcements or news from Soult. Being trapped between the militias in Coimbra threatening Almeida and the English in the area of Alenquer, it is obvious that Massena could no longer do anything, if he ventured to Coimbra and occupy the Mondego Valley, March 1811. In a few words in the first phase the loss of Coimbra was vital to the fate of the Armée du Portugal which resulted in a demoralizing wait and hunger.</div>
-<div> In withdrawal Ney's departure was an injustice to a certain extent. Until arriving at Celorico he behaved bravely and put in check the English movements shining effusively in Redinha. He knew how to use combat breaks and move by positions quite effectively. His performance was the complementary idea for the plan of Massena whose itinerary knew how to take advantage of the advantages of the ground as in the already mentioned Redinha and for example in the Bridge of Mucela. Preferring to travel by two roads and converging in strategic locations, he knew how to always have the army in</div>
-<div> </div>
-<hr>
-<div> </div>
-<div>vantagem de terreno e com capacidade numérica para enfrentar o inimigo.Ney pela sua prestação foi elogiado pelo inimigo pela bravura e capacidade táctica nas suas manobras de rectaguarda, conseguindo a tão desejada troca de espaço por tempo, objectivo que ganhou por várias vezes devido às suas acções no Pombal, Casal Novo e Foz de Arouce. Na última apesar do 39º Regimento ter perdido a sua águia e o caos ter quase destruído as suas forças teve coragem para assumir o erro e carregar pessoalmente com os seus batalhões sobre os ingleses. Além do mais tinha mesmo razão, o seu instinto tinha acertado nas intenções de Wellington que pretendia flanquear o lado esquerdo francês da retirada. Trant e Wilson partiram com as suas forças com intenção de interceptá-las pela esquerda enquanto o centro e a direita francesa eram atacadas pelas forças de Wellington, caso isto tivesse sucesso ele conseguiria assim com estas movimentações envolver o exército francês e destruí-lo. Mas Ney com as atitudes que teve perdeu a confiança de Massena e o antro de víboras que se encontrava do seu lado, suspirava aos seus ouvidos que as forças inglesas não fariam tal coisa, subestimando o inimigo.Assim na parte final da retirada, quando estava correcto em várias situações, a sua opinião tornava-se inválida e paranóica perante Massena que já sabia que Ney pretendia que o destino fosse Espanha e não Coimbra e o Vale do Mondego.O teste final foi Coira, Massena via-se isolado e rodeado por comandantes indisciplinados e Ney, devido ao seu brilhante comportamento nas batalhas contra os ingleses, era na minha opinião o apoio ideal. Vejo a proposta feita a Ney como uma última hípotese de redenção, pois o estabelecimento em Coira podia ter corrido bem graças à capacidade de liderança de Ney na rectaguarda e provavelmente o Exército do Norte , do Centro e do Sul podiam prestar melhor apoio a Massena e assim constituir uma ameaça a Wellington(Napier,337,1873). Contudo Ney foi intempestuoso de mais e arriscou demasiado com o eu ou nada ao dizer que o VI Corpo não marcharia para o local indicado por Massena. O caso curioso, é que destino que Ney aconselhara foi o escolhido no final por Massena após pressão inglesa na Guarda e Celorico.</div>
-</div>
-<div> </div>
+                    <img src="https://pontedarte.org/media/posts/28/celia-de-villiers_web2.jpg" alt="" />
+                <h3 id="mcetoc_1dkb61pgh0">Biography</h3>
+<p>Celia de Villiers holds a MA in Visual Arts Cum laude (UNISA), BA Fine Art (UNISA) with distinction and a Higher Education Diploma (Wits). She has exhibited extensively, locally and abroad and curates and adjudicates exhibitions, including The Thami Mnyele Awards in Ekurhuleni (2009, 2011), The Department of Arts and Culture National Craft Awards (2009), PPC Young Sculptors Awards (2010), National judge (2008) for the 23rd ABSA L’ Atelier Awards and regional judge for the 26th, 27th L’ Atelier Awards (2011, 2012).</p>
+<p>De Villiers has been a Standard Bank Resident Artist at the National Arts festival. Her sculptures in various media are in permanent collections such as the Raiffeisen Bank, Germany, Le Tousserok Sun International Hotel, Mauritius, Development Bank of South Africa, UNISA, Michigan State University, and the Museum of Art and Design, New York. She was awarded an art fellowship by the Sacatar foundation of California in 2004.</p>
+<p>The artist travels to venues outside Gauteng to facilitate and consult for the Arts Inter Action community outreach initiative and was a board member of the Enviroserv WasteArt Foundation for 8 years. De Villiers was nominated as a finalist for the Woman of Substance (Mosadi wa Kono-kono) by the Gauteng provincial government in 2006 and was a University of South Africa nominee for the Shoprite/Checkers Woman of the Year and the winner of Ekurhuleni Mayoral Achievers Award for Job Creation in the Arts and Crafts sector during 2006. She received a marketing excellence award from UNISA in 2009 and served on the Advisory Board for craft of the South African Department of Arts and Culture from 2008-2010.</p>
+<p>De Villiers has lectured in Drawing, Painting Sculpture, and Conceptual art from first to post-graduate level at the University of South Africa from 2001-2011. She is currently lecturing part-time at the Design school of South Africa, UNISA and Pretoria University. Her artworks and articles have appeared in numerous publications. She has presented research papers at the World Environmental Education Conference (2007), the European Fibre Art Convention in Val d’ Argent, France (2004, 2008, 2009), the University of Pretoria (2009, 2011), the Universities of Bahia (2004) and University of Cachoeira (2010) in Salvador, Brazil, Stendhal University-Grenoble, France (2008), the University of Johannesburg in 2011 and was a keynote speaker the University of Alba Iulia in Romania (2010).</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>The art gallery space</title>
+        <title>Kris van ‘t Hof</title>
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://pontedarte.github.io/the-art-gallery-space.html"/>
-        <id>https://pontedarte.github.io/the-art-gallery-space.html</id>
+        <link href="https://pontedarte.org/kris-van-t-hof.html"/>
+        <id>https://pontedarte.org/kris-van-t-hof.html</id>
 
-        <updated>2019-08-11T03:51:10+02:00</updated>
+        <updated>2019-09-09T15:58:53+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/14/P1050106.JPG" alt="" />
-                    The fire could not stop us, and finally the new roof is&hellip;
+                     Kris van ‘t Hof designs, co-produces and teaches situation-specific art projects&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/14/P1050106.JPG" alt="" />
-                <p>The fire could not stop us, and finally the new roof is on.  In October we open our first exhibition the new art gallery space, formerly a repair garage for trucks.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About your hosts</title>
-        <author>
-            <name>Ponte d&#x27;Arte</name>
-        </author>
-        <link href="https://pontedarte.github.io/about-your-hosts.html"/>
-        <id>https://pontedarte.github.io/about-your-hosts.html</id>
-
-        <updated>2019-08-11T03:50:56+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/13/WhatsApp-Image-2019-08-10-at-23.09.06.jpeg" alt="" />
-                    x
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/13/WhatsApp-Image-2019-08-10-at-23.09.06.jpeg" alt="" />
-                x
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Left of Centre - Oct 2017</title>
-        <author>
-            <name>Ponte d&#x27;Arte</name>
-        </author>
-        <link href="https://pontedarte.github.io/left-of-center-oct-2017.html"/>
-        <id>https://pontedarte.github.io/left-of-center-oct-2017.html</id>
-
-        <updated>2019-08-13T15:13:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/11/Panos-Greek-site-specific-art.jpg" alt="" />
-                    LEFT OF CENTRE In Situ3 – Workshop 18 - 29 September 2017&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/11/Panos-Greek-site-specific-art.jpg" alt="" />
-                <p><strong>LEFT OF CENTRE</strong></p>
-<p><strong>In Situ<sup>3</sup> </strong>– <strong>Workshop 18 - 29 September 2017</strong></p>
-<blockquote>
-<p><strong><em>“If you want me<br>You can find me<br>Left of center<br>Off of the strip<br>In the outskirts<br>In the fringes<br>In the corner<br>Out of the grip</em></strong><strong style="font-size: calc(1.125rem + (0.14062 * ((100vw - 20rem) / 80)));"><em>”.</em></strong></p>
-</blockquote>
-<p class="align-center">- Suzanne Vega, singer songwriter, <em>Left of Centre<a href="#_ftn1" name="_ftnref1"><strong>[1]</strong></a></em></p>
-<p> </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YIBmZjONtA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-<p>Since the advent of digital technology our lifestyles have become frenetic; everyone is constantly in a hurry. In his book <em>In Praise of Slowness,</em> Carl Honoré dissects our speed-obsessed society and celebrates those who have connected with their "inner tortoise." He believes “we’re so marinated in the culture of speed that we fail to notice the toll it takes on our productivity, lives, health, work, and relationships.”<a href="#_ftn2" name="_ftnref2">[2]</a></p>
-<p>The novel, <em>Slowness</em>, by the Czech-born French writer, Milan <em>Kundera</em> also investigates our contemporary obsession with speed and suggests that: There is a secret bond <strong>between slowness and memory, between speed and forgetting</strong>:</p>
-<p><strong>“</strong>A man is walking down the street. At a certain moment, he tries to recall something, but the recollection escapes him. Automatically, he slows down. Meanwhile, a person who wants to forget a disagreeable incident he has just lived through starts unconsciously to speed up his pace, as if he were trying to distance himself from a thing still too close to him in time.</p>
-<p>In existential mathematics that experience takes the form of two basic equations: The degree of slowness is directly proportional to the intensity of <strong>memory</strong>; the degree of speed is directly proportional to the intensity of <strong>forgetting.” </strong><a href="#_ftn3" name="_ftnref3">[3]</a></p>
-<p>These short paragraphs of Kundera and Honoré contain implications of tempo and its effects on our lives. Therefore this workshop for <em>In Situ</em> students in Ponte da Mucela (mid Portugal) will focus on the awareness of the temporal nature of the comings and goings and the rhythmic patterning of a particular area.</p>
-<p>This workshop will hinge on slow mindful responses. Students will be expected to consciously become aware of the moment they are in – absorbing literally and metaphorically the shapes, layers, tones and textures of the small village, the surrounding landscape and its local inhabitants. It is an opportunity for you to be unhurried, take time out, retreat to an environment away from the city; <strong><em>left of centre, on the outskirts and the fringes in a remote corner of the world </em></strong>to render quality work and contemplate your art practice.</p>
-<p>Ponte da Mucela is a peaceful area, with its own particular rhythm. However, the place bears witness to stark contrasts such as extreme fluctuation in temperatures, lush green river banks, dry, sandy earth and fascinating rock formations. Historical and recent disasters, like forest fires and floods have left a legacy of, marks and scars in the territory as well as intriguing colour tones. The light conditions fluctuate from clear starry skies to quiet misty mornings and harsh mid-day shadows.</p>
-<p>Such successive stimuli (temporal patterning) and its impact on the local content of life contributes to what the organisation <em>Common Ground<a href="#_ftn4" name="_ftnref4"><strong>[4]</strong></a></em> call ‘local distinctiveness’, and what the relational geographers, Nigel Thrift and Doreen Massey terms ‘ecologies of place’<a href="#_ftn5" name="_ftnref5">[5]</a>. Massey (2005:141) writes, that “our temporary meeting up with rocks, stones and trees requires, in one way or the other, a confrontation with the challenge of a non-human negotiation”. We agree with the American philosopher, Thomas Nagel<a href="#_ftn6" name="_ftnref6">[6]</a> (quoted in Jonathan Metzger 2014:13)<a href="#_ftn7" name="_ftnref7">[7]</a> who is of the opinion that an objective perspective to describe a place is the "<a href="https://en.wikipedia.org/wiki/View_from_nowhere">view from nowhere</a>” he states that that the only valuable ideas about spaces and places are ones derived independently and subjectively. These theorists all support the role that artists play in enabling community action as well as expressing their own mindful engagement with the environment.</p>
-<p>Slowness does not mean doing nothing. Unique knowledge as well as pleasure can be gained from reducing one's pace. It is about giving yourself time to reflect on the value, quality and meaning of the experiences you will undergo. When savouring and prolonging moments one moves and acts slowly and discovers nuances which are intellectually stimulating. All too often the contemporary cult of speed encourages rash decisions which result in failure.</p>
-<p> </p>
-<p><strong>Sources </strong></p>
-<p><a href="#_ftnref1" name="_ftn1">[1]</a> Vega, S and Addabo, S. 1986. <em>Left of Center. </em>Soundtrack for the film <em>Pretty in Pink.</em></p>
-<p><a href="#_ftnref2" name="_ftn2">[2]</a> Honoré, C. <a href="https://www.ted.com/talks/carl_honore_praises_slowness">https://www.ted.com/talks/carl_honore_praises_slowness</a> (accessed on July 18, 2017).</p>
-<p>Honoré, C. 2005. <em>In praise of slowness</em>. London: Orion.</p>
-<p><a href="#_ftnref3" name="_ftn3">[3]</a> Milan Kundera <a href="https://www.goodreads.com/quotes/272845-there-is-a-secret-bond-between-slowness-and-memory-between">https://www.goodreads.com/quotes/272845-there-is-a-secret-bond-between-slowness-and-memory-between</a>. Kundera, M. 1995. <em>Slowness</em>. London: Harper Collins.</p>
-<p><a href="#_ftnref4" name="_ftn4">[4]</a> <em>Common ground</em> is an organisation, founded in London in 1982 (and is still very active) under the leadership of Susan Clifford and Angela King. This collective has initiated social and environmental concepts through a series of prominent creativities in the UK, often connecting communities with artists. They have worked extensively with well-known artists like <a href="https://en.wikipedia.org/wiki/Andy_Goldsworthy">Andy Goldsworthy</a> and <a href="https://en.wikipedia.org/wiki/Peter_Randall-Page">Peter Randall-Page</a>.</p>
-<p><a href="#_ftnref5" name="_ftn5">[5]</a> Massey, D. 2005. <em>For space</em>. London: Sage. Thrift N and Massey D. 2003. The passion of place in <em>A century of British geography</em>, Ron Johnston, Michael Williams (eds), Oxford: British Academy: 275-284.</p>
-<p><a href="#_ftnref6" name="_ftn6">[6]</a> Nagel, T. 1986. <em>The view from nowhere</em>. New York: Oxford Univ. Press.</p>
-<p><a href="#_ftnref7" name="_ftn7">[7]</a> Metzger, J. 2014.The subject of place: staying with the trouble. <em>Emergent Urbanism: Urban Planning &amp; Design in Times of Structural and Systemic Change</em>. Haas &amp; Olsson (eds), Aldershot: Ashgate. <a href="https://www.kth.se/profile/jmetzger">https://www.kth.se/profile/jmetzger</a> (accessed July 16, 2017). https://www.kth.se/profile/jmetzger.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aftermath - Oct 2018</title>
-        <author>
-            <name>Ponte d&#x27;Arte</name>
-        </author>
-        <link href="https://pontedarte.github.io/aftermath-oct-2018.html"/>
-        <id>https://pontedarte.github.io/aftermath-oct-2018.html</id>
-
-        <updated>2019-08-13T15:35:18+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/10/P1040089.JPG" alt="" />
-                    x
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/10/P1040089.JPG" alt="" />
-                x
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Resilience &amp; Re-inscription - Oct 2019</title>
-        <author>
-            <name>Ponte d&#x27;Arte</name>
-        </author>
-        <link href="https://pontedarte.github.io/resilience-and-re-inscription-oct-2019.html"/>
-        <id>https://pontedarte.github.io/resilience-and-re-inscription-oct-2019.html</id>
-
-        <updated>2019-08-13T15:30:35+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/9/pontedamucela2vef.jpg" alt="" />
-                    In Situ3 – Workshop 1 - 12 October 2019 Resilience &amp; Re-inscription&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/9/pontedamucela2vef.jpg" alt="" />
-                <p><strong>In Situ<sup>3</sup> </strong>– <strong>Workshop </strong><strong>1 - 12 October 2019</strong></p>
-<p><strong>Resilience &amp; Re-inscription </strong></p>
-<p> </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yZVpHDuK-do?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-<p>In one weekend in July 2017, flames engulfed kilometre after kilometre of eucalyptus and pine forests across Spain and Portugal. The wildfires (due to lightning, increasing climate change or suspected pyromania) claimed the lives of 63 individuals in our region. Some were trapped whilst attempting to flee in their cars. Dozens were injured, and thousands evacuated from their homes. Many buildings were destroyed - including our large truck repair hall at Ponte d’ Arte, and with it a substantial amount of our artworks and possessions.  (<a href="https://youtu.be/9nu4Z9qIRIU" title="wildfire-portugal" target="_blank" rel="noopener noreferrer">Portugal's biggest wildfire: 'We all thought we were going to die'.</a> The Guardian video, 10 min.)</p>
-<p>Have you ever lost something forever? Catastrophe challenges our very ability to make sense of our circumstances and face the future. According to the American philosopher and theorist Judith Butler (2003)<a href="#_ftn1" name="_ftnref1">[1]</a>, following such an incident ”we are marked for life, and that mark is insuperable, irrecoverable. It becomes the condition by which life is risked, by which the question of <strong>whether one can move</strong>, and <strong>with whom</strong>, and <strong>in what way</strong> is framed and incited by the irreversibility of loss itself."</p>
-<p>Therefore, at Ponte d’ Arte, we decided to embrace risk, to rebuild, and to keep moving. Will you join us, two years after the fire, on Sunday 13 October, in an art gallery we have constructed out of the ruins? During this 12-day residency you are invited to create in situ artworks as a <em>palimpsest</em><a href="#_ftn2" name="_ftnref2">[2]</a>, contextualising the event, the region and the resilience of its community. Participate in this recuperating region ‘over-writing’ the traces in the landscape and the numerous remnants of the inferno, whilst contemplating the most effective way to express the disaster and its recovery.</p>
-<p>Do you agree with Sigmund Freud<a href="#_ftn3" name="_ftnref3">[3]</a> that our self (ego) “is composed of the residues of its accumulated losses”? The postmodern feminist psychoanalyst Julia Kristeva <a href="#_ftn4" name="_ftnref4">[4]</a> describes the difficult thoughts and feelings that persist when events like the fire of 2017 hit us. This melancholic return and re-confrontation with past loss makes possible the slow but eventual work of mourning.</p>
-<p>New creative perspectives and exciting prospects are available on the premises and in the immediate neighbourhood. There are abundant residues and relics with palimpsest-like qualities waiting to be explored. The burnt debris and the ensuing rain has yielded astonishing hues, tints and textures, corrosive marks and congealed contorted shapes for you to discover.</p>
-<p>Maybe nothing is ever completely lost or gone, if we actively remember it – but memory itself is a re-imagining. “<em>If loss</em> is <em>known only</em> by what <em>remains</em> of it, <em>then</em> the <em>politics</em> and <em>ethics</em> of <em>mourning lie</em> in the <em>interpretation</em> of what <em>remains</em>—how <em>remains</em> are <em>produced</em> and <em>animated</em>, how <em>they</em> are <em>read</em> and <em>sustained</em>” (Eng and Kazanjian 2003, p. ix).</p>
-<p>Throughout history, art and society have come together during moments of catastrophe. Such events will continue to offer creative possibilities, so we hope you will join us in creating thought provoking re-interpretations and relationships - palimsests to celebrate resilience.</p>
-<p> </p>
-<p><strong>Preparation</strong></p>
-<p class="p1"><strong>Barca Nostra: The Art of Disaster (artwork at the current Venice Biennale 2019)</strong></p>
-<p class="p1"><strong>“The use of death or catastrophe as a creative object, between sensationalism, morbid attraction and voyeurism, does succeed in highlighting certain ethical debates. But there is a thin line between exploiting a disaster and denouncing it”.</strong></p>
-<p class="p1"><a href="https://www.switchonpaper.com/en/2019/07/12/barca-nostra-the-art-of-disaster/"><strong>https://www.switchonpaper.com/en/2019/07/12/barca-nostra-the-art-of-disaster/</strong></a></p>
-<p class="p1"><strong>Please come prepared to tell us what do you think about this.</strong></p>
-<p><a href="https://www.theguardian.com/commentisfree/2019/may/17/the-guardian-view-on-the-venice-biennale-migrant-boat-pushing-the-limits-of-art">https://www.theguardian.com/commentisfree/2019/may/17/the-guardian-view-on-the-venice-biennale-migrant-boat-pushing-the-limits-of-art</a></p>
-<p><a href="https://www.theartnewspaper.com/news/christoph-buechel">https://www.theartnewspaper.com/news/christoph-buechel</a></p>
-<p> </p>
-<p><strong>Sources </strong></p>
-<p><a href="#_ftnref1" name="_ftn1">[1]</a> Butler in <em>Loss: The Politics of Mourning</em>. Eng, D L and Kazanjian, D. 2003 (eds) Berkeley. University of California Press: p.467.</p>
-<p><a href="#_ftnref2" name="_ftn2">[2]</a> A <strong><a href="https://lucian.uchicago.edu/blogs/mediatheory/keywords/palimpsest/" target="_blank" rel="noopener noreferrer">palimpsest</a></strong> is a manuscript or writing surface comprising something re-used, overwritten or altered but still bearing visible traces of its earlier form in other words a “multi-layered record.” It can be any kind of "<strong><em>trans</em></strong>doing" and "perspectivation", It may include a translator’s [or artist’s] very personal, subjective attitude or conception (Hans-Harry Drößiger,<em> Athens Journal of Philology - Volume 5, Issue 4: </em>P. 261-284).</p>
-<p>See also the work of literary scholar and theorist Gérard <em>Genette</em> (1930-2018) who had a broad impact on the understanding of palimpsest, also known as intertextuality. </p>
-<p><a href="#_ftnref3" name="_ftn3">[3]</a> Freud in <em>The Ego and the Id </em><em>(1923)</em>, cited in <em>The Politics of Mourning</em>. Eng, D L and Kazanjian, D. 2003 (eds) Berkeley. University of California Press: p.4.</p>
-<p><a href="#_ftnref4" name="_ftn4">[4]</a> Kristeva<em> cited in The Politics of Mourning</em>. Eng, D L and Kazanjian, D. 2003 (eds) Berkeley. University of California Press: p.4. <a href="http://banmarchive.org.uk/collections/newformations/03_05.pdf." target="_blank" rel="noopener noreferrer">On the Melancholic Imaginary</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>History of Ponte Da Mucela</title>
-        <author>
-            <name>Ponte d&#x27;Arte</name>
-        </author>
-        <link href="https://pontedarte.github.io/past.html"/>
-        <id>https://pontedarte.github.io/past.html</id>
-
-        <updated>2019-08-11T03:57:29+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/7/Ponte-de-Mucela-82.jpg" alt="" />
-                    Modern Portugal, south of the Douro river, and part of western Spain, were once named the Roman&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/7/Ponte-de-Mucela-82.jpg" alt="" />
-                <p>Modern Portugal, south of the Douro river, and part of western Spain, were once named the Roman province Lusitania, after its Indo-European native peoples, the Lusitani.  Travelling on the trade route from Coimbra to Spain, the bridge located at Mucela was the only opportunity to cross the Rio Alva, which passes through steep mountains, and floods the valley at Mucela once a year in the rainy season. The first recorded stone bridge over the Rio Alva was constructed in 1295 during the reign of King Denis I.  The royal Almeida road, that linked the Kingdom to Spain, passed over the Ponte da Mucela. Known conservation works date back to the 16th century, at the time of Cardinal Henrique.  In 1811, the central arch of the bridge was blown up by French Napoleonic troops to prevent their retreat from the area during the Peninsular War, where they were nonetheless eventually defeated by the Anglo-Portuguese army.  Now the Estrada de Beira (N17), the road was widened to accommodate more traffic in 1994, and eventually bypassed by a new highway to Spain in 2000.  What remains today is the Ponte da Mucela.</p>
-<p>The Roman stone road is well preserved and visible in the basement of the stone farmhouse next to the bridge.  This may house a future 'Museu de Ponte Da Mucela', a small local museum housing annual educational exhibitions curated by artists researching the area, with no permanent collection.</p>
-<div> </div>
-<div>With the fall of the Roman Empire, much of Portugal lived under Islamic rule for over 500 years from the early 8th century, when North African invaders (Moors) overturned the Germanic kingdoms ruling the Iberian Peninsula.  Their presence in this landscape remains (at least in one interpretaion of legend) in the name of Moura Morta, the name of our neighbouring village. </div>
-<p><a href="https://pontedarte.github.io/historical-documents-mentioning-the-bridge-at-mucela.html">Read more detailed historical accounts of the bridge</a></p>
-<p> </p>
-<figure class="post__image post__image--left" ><img src="https://pontedarte.github.io/media/posts/7/PRS-lavegadas.png" alt="Lavegadas heraldic crest" width="368" height="433">
-<figcaption >With a population density of 22.2 inhabitants per km², Lavegadas is the smallest and least populated parish of the municipality of Vila Nova de Poiares, an area spanning 11.23 km², and housing 249 inhabitants (2001). It consists of seven villages, namely: Barreiro; Igrega Nova (adminstrative headquarters); Moura Morta; Mucela; Sabouga and São Pedro Dias. It is 30 kms distance from Coimbra.</figcaption>
-</figure>
-<div><strong>Heraldic Coat of Arms</strong></div>
-<div> </div>
-<div>The Lavegadas heraldic coat of arms, drawn up in the 19th Century, is made up of a green shield, a bridge of four arches of silver drawn in black, with silver and blue river waves flowing below. Above the bridge is a silver dolmen between two identical golden lily branches.  The top is crowned by three silver towers and ramparts, below, a white ribbon banner with the legend in black, “Lavegadas”.</div>
-<div> </div>
-<div><strong>Symbolic Legend</strong></div>
-<div> </div>
-<div>The Catholic ecclesiastical mythology deeply influences all Portuguese parishes, which were only conferred legal status in the nineteenth century. </div>
-<div> </div>
-<div>The green plains and golden Saint Joseph’s lilies represent the Catholic saint, carpenter and biblical foster father to Jesus Christ.  Father’s Day in Portugal falls on the 19th of March, venerated as Saint Joseph’s day in Western Catholic calendars since the 10th century.  </div>
-<div> </div>
-<div>The Rio Alva (White River), its source the ice water of the Serra da Estrela (Mountains close to Starlight), was a historically vital force driving the mills, water wheels, linen and fishing industries. </div>
-<div> </div>
-<div>The megalithic dolmen at the top of São Pedro Dias (legally classified as Property of Public Interest by Decree no. 29/90 of 17 July), was first archaeologically investigated in 1959 by Dr. João Castro Nunes.  The burial mound was excavated in 1983.  Very little is still visible of this stone age passage mound grave.  The remains can be visited 5 - 10 km east of Poiares on the N17 (coordinates 40.22˚ N, 8.26˚ W).</div>
-<div> </div>
-<div>The Gothic architecture of the Ponte da Mucela (Mucela Bridge), built in the thirteenth century during the reign of King Denis I, is one of the most important constructions of its kind from this era in the region. It was built to ensure safe passage of the river Alva throughout the seasons.  The royal Almeida road, that linked the Kingdom to Spain, passed over the Ponte da Mucela.  Known conservation works date back to the 16th century, at the time of Cardinal Henrique.  </div>
-<div> </div>
-<div>During the Peninsular War, in the third French invasion of March 1811, one of the arches of the bridge was dismantled to prevent the retreat of French troops from the area, requiring the Anglo-Portuguese army and local inhabitants to fight invaders pillaging their villages.  The retreating French troops sacked homes, barns and churches, attempting to steal the wealth of the country.  More recently, it underwent renovation due to the national highway (N17) that passes over it.</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nearby</title>
-        <author>
-            <name>Ponte d&#x27;Arte</name>
-        </author>
-        <link href="https://pontedarte.github.io/nearby.html"/>
-        <id>https://pontedarte.github.io/nearby.html</id>
-
-        <updated>2019-08-11T03:53:59+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://pontedarte.github.io/media/posts/6/Conimbriga_calling_article.jpg" alt="" />
-                     You might come to stay in a forgotten village, but that does&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://pontedarte.github.io/media/posts/6/Conimbriga_calling_article.jpg" alt="" />
                 <p> </p>
-<p>You might come to stay in a forgotten village, but that does not mean there is nothing to se and do.  Apart from the langscape in walking distance, inspiring day trips are warmly recommended. There is is a wide variety of cultural and lifestyle attractions within 30 mins drive of Ponte d'Arte.</p>
-<p>The venue is not far from:</p>
+<h3 id="mcetoc_1dkb502sf1">Biography</h3>
+<p>Kris van ‘t Hof designs, co-produces and teaches situation-specific art projects and practices. He specialised in Monumental and Environmental Arts at the Royal Academy of Fine Arts (KASKA), Antwerp, BE, and at Masters of Fine Art level at the National Higher Institute of Fine Arts (HISK). He is teaching in the <em>In Situ</em> department and also lectures in figure drawing and conceptual art up to post-graduate level at KASKA. He was awarded a fellowship in arts-and-cultural heritage by the Andrew W. Mellon Foundation in 2014.</p>
+<p>Van ‘t Hof organises international workshops and study trips promoting transnational artworks and the collaboration of artists. He has been a guest professor at Universities in Krakow, La Laguna, Turku, Roma, Oslo, Athina, Delphi, Rethymnon, Syros &amp; Hydra, Sofia, Varna, Praha, Porto, Lisbon, Leiria, Dublin, Sevilla and Zagreb in Europe, Sarasota (US), Pretoria, Midrand and Johannesburg (South Africa).</p>
+<p>He has adjudicated several art competitions in Europe and has received numerous awards for his own artworks, such as from OPEL, Belgium. Van t’ Hof has completed eighteen public art projects (two-and three-dimensional works) and designed stage sets, amongst them for the National Opera in Brussels and the Royal Ballet in Flanders. His paintings are in private and corporate collections worldwide.</p>
+<p>Most recently (2015 – 2018) he has been engaged in IPIP (<em>In Public in Particular</em>) with art academies in Turku, Dublin, Zagreb and Antwerp, funded by Creative Europe. Its manifestations included social interactive projects, performance art happenings and collaborative community parades in Antwerp, BE, art-directed and co-ordinated by Van T’Hof.</p>
+<p>A key component of this research concerns the engagement and development of audiences; specifically focused on working in local situations and small neighbourhoods. Practice-led research reports are available for download (<a href="http://ipip-project.eu">http://ipip-project.eu</a>) and in print (<em>In public in particular - art and exchange in four European cities, </em>November 2018).</p>
+<p>With the South African artist Celia de Villiers, Kris Van ‘t Hof co-directs the residency and teaching programme at Ponte d’ Arte (Arts Bridge), in Ponte da Mucela, near Coimbra in central Portugal.</p>
+<p> </p>
+<p><strong>Contact:</strong></p>
+<p> </p>
+<p><a href="mailto:kris.vanthof@ap.be">kris.vanthof@ap.be</a></p>
+<p>ponte.d.arte.portugal@gmail.com</p>
+<p>Studio: 0032 473 91 62 27</p>
+<p>http://<a href="http://www.krisvanthof.com">www.krisvanthof.com</a> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Adega (library &amp; meetings)</title>
+        <author>
+            <name>Ponte d&#x27;Arte</name>
+        </author>
+        <link href="https://pontedarte.org/the-adega-library-and-meetings.html"/>
+        <id>https://pontedarte.org/the-adega-library-and-meetings.html</id>
+
+        <updated>2019-09-09T15:47:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Kitchen, dining room, library (adega) meeting space for small groups (10 people&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Kitchen, dining room, library (adega) meeting space for small groups (10 people max).</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Garden</title>
+        <author>
+            <name>Ponte d&#x27;Arte</name>
+        </author>
+        <link href="https://pontedarte.org/the-garden.html"/>
+        <id>https://pontedarte.org/the-garden.html</id>
+
+        <updated>2019-09-09T15:42:30+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Riverside</title>
+        <author>
+            <name>Ponte d&#x27;Arte</name>
+        </author>
+        <link href="https://pontedarte.org/riverside.html"/>
+        <id>https://pontedarte.org/riverside.html</id>
+
+        <updated>2019-09-09T15:42:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Camping site and river beach, future site for outdoor sculpture installations
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <span style="font-weight: 400;">Camping site and river beach, future site for outdoor sculpture installations</span>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Rio Alva</title>
+        <author>
+            <name>Ponte d&#x27;Arte</name>
+        </author>
+        <link href="https://pontedarte.org/the-rio-alva.html"/>
+        <id>https://pontedarte.org/the-rio-alva.html</id>
+
+        <updated>2019-09-09T15:50:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Swimming, caoneing, etc
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <span style="font-weight: 400;">Swimming, caoneing, etc</span>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chinese Summer Drawing Class - 2016</title>
+        <author>
+            <name>Ponte d&#x27;Arte</name>
+        </author>
+        <link href="https://pontedarte.org/chinese-summer-drawing-class-2016.html"/>
+        <id>https://pontedarte.org/chinese-summer-drawing-class-2016.html</id>
+
+        <updated>2019-09-09T15:42:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    AThinkTank Station, artistic hub for artists Ponte da Mucela,Portugal Programme: Diverse angles&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>AThinkTank Station, artistic hub for artists Ponte da Mucela,Portugal</strong></p>
+<p><strong>Programme:</strong></p>
+<p><strong>Diverse angles with a different objective in mind each day (contrast, rhythm, linear qualities,</strong></p>
+<p><strong>Composition, perspectives…).</strong></p>
+<br>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Broken by time – engaging with ‘the lie of the land’ - 2016</title>
+        <author>
+            <name>Ponte d&#x27;Arte</name>
+        </author>
+        <link href="https://pontedarte.org/broken-by-time-engaging-with-the-lie-of-the-land-2016.html"/>
+        <id>https://pontedarte.org/broken-by-time-engaging-with-the-lie-of-the-land-2016.html</id>
+
+        <updated>2019-09-09T15:33:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    In Situ3 – Workshop September 2016 The Collins English Dictionary explains "the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>In Situ</strong><strong>3</strong> <span style="font-weight: 400;">– </span><strong>Workshop   September 2016</strong></p>
+<p><span style="font-weight: 400;">The Collins English Dictionary explains "<em>t</em></span><i><span style="font-weight: 400;">he lie of the land"</span></i><span style="font-weight: 400;"> in two ways:</span></p>
 <ul>
-<li>Conimbriga, a unique Roma archeological site with exquisite mosaics,</li>
-<li>Moinhos (windmills)</li>
-<li>and ancient stone-age housing.</li>
+<li><span style="font-weight: 400;">         The</span><a href="http://www.collinsdictionary.com/dictionary/english/topography"> <strong>topography</strong></a><span style="font-weight: 400;"> of the land,</span></li>
+<li><span style="font-weight: 400;">         The way in which a</span><a href="http://www.collinsdictionary.com/dictionary/english/situation"> <span style="font-weight: 400;">situation</span></a><span style="font-weight: 400;"> is developing and </span><strong>people are</strong><a href="http://www.collinsdictionary.com/dictionary/english/behave"> <strong>behaving</strong></a><span style="font-weight: 400;">.</span></li>
 </ul>
+<p><span style="font-weight: 400;">These are essentially the 2 main concepts we will be considering during this In Situ</span><span style="font-weight: 400;">3</span><span style="font-weight: 400;"> workshop.</span><span style="font-weight: 400;"> </span></p>
+<p><strong>Nature and land</strong><span style="font-weight: 400;"> in this context includes the physical world and everything in it - such as plants, animals, mountains, fossils, rocks, oceans and even stars in the universe. </span></p>
+<p>This In Situ workshop is essentially orientated towards contemplation about the manner in which elements in the environment are gradually remodelled or transformed over time - either by natural forces or by processes due to human intervention. </p>
+<p> </p>
             ]]>
         </content>
     </entry>
