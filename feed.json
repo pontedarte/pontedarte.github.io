@@ -25,13 +25,16 @@
             "id": "https://pontedarte.org/bussaco-palace.html",
             "url": "https://pontedarte.org/bussaco-palace.html",
             "title": "Bussaco Palace",
+            "summary": "The Neo-Manueline was a revival architecture and decorative arts style developed in Portugal&hellip;",
+            "content_html": "The Neo-Manueline was a revival architecture and decorative arts style developed in Portugal between the middle of the 19th century and the beginning of the 20th century. The style adopted the characteristics of the Manueline (or Portuguese Final Gothic) of the 16th century.",
+            "image": "https://pontedarte.org/media/posts/29/1280px-Palacio_Hotel_de_Bussaco_XL.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
             },
             "tags": [
             ],
             "date_published": "2019-09-09T16:07:18+02:00",
-            "date_modified": "2019-09-09T16:07:18+02:00"
+            "date_modified": "2019-09-09T23:49:56+02:00"
         },
         {
             "id": "https://pontedarte.org/celia-de-villiers.html",
@@ -80,13 +83,14 @@
             "id": "https://pontedarte.org/the-garden.html",
             "url": "https://pontedarte.org/the-garden.html",
             "title": "The Garden",
+            "image": "https://pontedarte.org/media/posts/25/2019-Instagram-pontedarte-Aug142.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
             },
             "tags": [
             ],
             "date_published": "2019-09-09T15:41:48+02:00",
-            "date_modified": "2019-09-09T15:42:30+02:00"
+            "date_modified": "2019-09-10T00:20:11+02:00"
         },
         {
             "id": "https://pontedarte.org/riverside.html",
@@ -94,13 +98,14 @@
             "title": "Riverside",
             "summary": "Camping site and river beach, future site for outdoor sculpture installations",
             "content_html": "<span style=\"font-weight: 400;\">Camping site and river beach, future site for outdoor sculpture installations</span>",
+            "image": "https://pontedarte.org/media/posts/24/Ponte-De-Mucela-27.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
             },
             "tags": [
             ],
             "date_published": "2019-09-09T15:41:23+02:00",
-            "date_modified": "2019-09-09T15:42:11+02:00"
+            "date_modified": "2019-09-10T00:24:44+02:00"
         },
         {
             "id": "https://pontedarte.org/the-rio-alva.html",
@@ -108,13 +113,14 @@
             "title": "The Rio Alva",
             "summary": "Swimming, caoneing, etc",
             "content_html": "<span style=\"font-weight: 400;\">Swimming, caoneing, etc</span>",
+            "image": "https://pontedarte.org/media/posts/23/Ponte-De-Mucela-79.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
             },
             "tags": [
             ],
             "date_published": "2019-09-09T15:39:17+02:00",
-            "date_modified": "2019-09-09T15:50:07+02:00"
+            "date_modified": "2019-09-10T00:26:00+02:00"
         },
         {
             "id": "https://pontedarte.org/chinese-summer-drawing-class-2016.html",

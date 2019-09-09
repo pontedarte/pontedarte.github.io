@@ -3,7 +3,7 @@
     <title>Ponte d&#x27;Arte, Portugal</title>
     <link href="https://pontedarte.org/feed.xml" rel="self" />
     <link href="https://pontedarte.org" />
-    <updated>2019-09-09T16:33:55+02:00</updated>
+    <updated>2019-09-10T00:26:49+02:00</updated>
     <author>
         <name>Ponte d&#x27;Arte</name>
     </author>
@@ -29,9 +29,19 @@
         <link href="https://pontedarte.org/bussaco-palace.html"/>
         <id>https://pontedarte.org/bussaco-palace.html</id>
 
-        <updated>2019-09-09T16:07:18+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-09-09T23:49:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pontedarte.org/media/posts/29/1280px-Palacio_Hotel_de_Bussaco_XL.jpg" alt="Bussaco Palace / Palácio Hotel do Buçaco" />
+                    The Neo-Manueline was a revival architecture and decorative arts style developed in Portugal&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pontedarte.org/media/posts/29/1280px-Palacio_Hotel_de_Bussaco_XL.jpg" alt="Bussaco Palace / Palácio Hotel do Buçaco" />
+                The Neo-Manueline was a revival architecture and decorative arts style developed in Portugal between the middle of the 19th century and the beginning of the 20th century. The style adopted the characteristics of the Manueline (or Portuguese Final Gothic) of the 16th century.
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Celia de Villiers</title>
@@ -121,7 +131,7 @@
         <link href="https://pontedarte.org/the-garden.html"/>
         <id>https://pontedarte.org/the-garden.html</id>
 
-        <updated>2019-09-09T15:42:30+02:00</updated>
+        <updated>2019-09-10T00:20:11+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -133,14 +143,16 @@
         <link href="https://pontedarte.org/riverside.html"/>
         <id>https://pontedarte.org/riverside.html</id>
 
-        <updated>2019-09-09T15:42:11+02:00</updated>
+        <updated>2019-09-10T00:24:44+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://pontedarte.org/media/posts/24/Ponte-De-Mucela-27.jpg" alt="" />
                     Camping site and river beach, future site for outdoor sculpture installations
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://pontedarte.org/media/posts/24/Ponte-De-Mucela-27.jpg" alt="" />
                 <span style="font-weight: 400;">Camping site and river beach, future site for outdoor sculpture installations</span>
             ]]>
         </content>
@@ -153,14 +165,16 @@
         <link href="https://pontedarte.org/the-rio-alva.html"/>
         <id>https://pontedarte.org/the-rio-alva.html</id>
 
-        <updated>2019-09-09T15:50:07+02:00</updated>
+        <updated>2019-09-10T00:26:00+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://pontedarte.org/media/posts/23/Ponte-De-Mucela-79.jpg" alt="" />
                     Swimming, caoneing, etc
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://pontedarte.org/media/posts/23/Ponte-De-Mucela-79.jpg" alt="" />
                 <span style="font-weight: 400;">Swimming, caoneing, etc</span>
             ]]>
         </content>
