@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://pontedarte.org/shared-accommodation.html",
+            "url": "https://pontedarte.org/shared-accommodation.html",
+            "title": "Shared accommodation",
+            "image": "https://pontedarte.org/media/posts/31/project-20190914-2157-HDR2-.jpg",
+            "author": {
+                "name": "Ponte d&#x27;Arte"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-15T19:29:55+02:00",
+            "date_modified": "2019-09-15T19:29:55+02:00"
+        },
+        {
             "id": "https://pontedarte.org/conimbriga.html",
             "url": "https://pontedarte.org/conimbriga.html",
             "title": "Conimbriga",
@@ -41,8 +54,8 @@
             "id": "https://pontedarte.org/celia-de-villiers.html",
             "url": "https://pontedarte.org/celia-de-villiers.html",
             "title": "Celia de Villiers",
-            "summary": "BiographyCelia de Villiers holds a MA in Visual Arts Cum laude (UNISA),&hellip;",
-            "content_html": "<h3 id=\"mcetoc_1dkb61pgh0\">Biography</h3>\n<p>Celia de Villiers holds a MA in Visual Arts Cum laude (UNISA), BA Fine Art (UNISA) with distinction and a Higher Education Diploma (Wits). She has exhibited extensively, locally and abroad and curates and adjudicates exhibitions, including The Thami Mnyele Awards in Ekurhuleni (2009, 2011), The Department of Arts and Culture National Craft Awards (2009), PPC Young Sculptors Awards (2010), National judge (2008) for the 23rd ABSA L’ Atelier Awards and regional judge for the 26th, 27th L’ Atelier Awards (2011, 2012).</p>\n<p>De Villiers has been a Standard Bank Resident Artist at the National Arts festival. Her sculptures in various media are in permanent collections such as the Raiffeisen Bank, Germany, Le Tousserok Sun International Hotel, Mauritius, Development Bank of South Africa, UNISA, Michigan State University, and the Museum of Art and Design, New York. She was awarded an art fellowship by the Sacatar foundation of California in 2004.</p>\n<p>The artist travels to venues outside Gauteng to facilitate and consult for the Arts Inter Action community outreach initiative and was a board member of the Enviroserv WasteArt Foundation for 8 years. De Villiers was nominated as a finalist for the Woman of Substance (Mosadi wa Kono-kono) by the Gauteng provincial government in 2006 and was a University of South Africa nominee for the Shoprite/Checkers Woman of the Year and the winner of Ekurhuleni Mayoral Achievers Award for Job Creation in the Arts and Crafts sector during 2006. She received a marketing excellence award from UNISA in 2009 and served on the Advisory Board for craft of the South African Department of Arts and Culture from 2008-2010.</p>\n<p>De Villiers has lectured in Drawing, Painting Sculpture, and Conceptual art from first to post-graduate level at the University of South Africa from 2001-2011. She is currently lecturing part-time at the Design school of South Africa, UNISA and Pretoria University. Her artworks and articles have appeared in numerous publications. She has presented research papers at the World Environmental Education Conference (2007), the European Fibre Art Convention in Val d’ Argent, France (2004, 2008, 2009), the University of Pretoria (2009, 2011), the Universities of Bahia (2004) and University of Cachoeira (2010) in Salvador, Brazil, Stendhal University-Grenoble, France (2008), the University of Johannesburg in 2011 and was a keynote speaker the University of Alba Iulia in Romania (2010).</p>",
+            "summary": "BiographyCelia de Villiers has three tertiary qualifications, including a MA in Visual&hellip;",
+            "content_html": "<h3 id=\"mcetoc_1dkb61pgh0\">Biography</h3>\n<p>Celia de Villiers has three tertiary qualifications, including a MA in Visual Arts (cum laude). A fellow of the the Sacatar foundation of California, she has also been credited by the World Craft Council, and endorsed by UNESCO. She has exhibited, curated and adjudicated extensively in South Africa and abroad, as well as presented and published academic articles in South Africa, the United States, Brazil, Romania, Belgium and France.</p>\n<p>Her two and three-dimensional artworks in various media are held in corporate, museum and private collections such as the Raiffeisen Bank, Germany, Landesbank, Germany, Le Tousserok Sun International Hotel, Mauritius, UNISA, EnviroServ and the Development Bank, South Africa, Michigan State University, and the Museum of Art and Design, New York.</p>\n<p>The artist has facilitated and consulted for community outreach and social art initiatives for eighteen years, and won government awards for job creation in the arts and crafts sector in South Africa. She has served on the board of the UNISA gallery, the EnviroServ WasteArt Foundation, the SA government department of Arts and Culture, and the SA Bureau of Standards for Craft.</p>\n<p>De Villiers has lectured in Drawing, Painting, Sculpture, Conceptualisation and Art theory from first to postgraduate level at the University of South Africa, The Design School of South Africa and the University of Pretoria between 2001 to 2018, as well as presenting workshops internationally.</p>\n<p>She relocated from South Africa to Europe in 2015, where she spends her time between Belgium and Portugal. Most recently she has been a guest lecturer at the Royal Academy of Art in Antwerp (2015 -2018), engaged in a European Union funded project between universities in Dublin, Ireland, Turku, Finland and Zagreb, Croatia (2016 - 2018).</p>\n<p>She is a co-director of Ponte d’ Arte, an Artistic Hub and Residency near Coimbra, Portugal, whilst remaining a passionate crafter and artist.</p>\n<p> </p>\n<p> </p>\n<p>See her work at <a href=\"http://www.celiadevilliers.com\">http://www.celiadevilliers.com</a>.</p>",
             "image": "https://pontedarte.org/media/posts/28/celia.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -50,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:59:39+02:00",
-            "date_modified": "2019-09-14T23:54:55+02:00"
+            "date_modified": "2019-09-15T19:06:52+02:00"
         },
         {
             "id": "https://pontedarte.org/kris-van-t-hof.html",
@@ -71,6 +84,7 @@
             "id": "https://pontedarte.org/the-adega-library-and-meetings.html",
             "url": "https://pontedarte.org/the-adega-library-and-meetings.html",
             "title": "The Adega",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/26/gallery/IMG_20190308_145621-HDR2-.jpg\" ><img src=\"https://pontedarte.org/media/posts/26/gallery/IMG_20190308_145621-HDR2--thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div>",
             "image": "https://pontedarte.org/media/posts/26/bookshelf-413705_1920.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -78,27 +92,28 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:47:52+02:00",
-            "date_modified": "2019-09-10T00:53:34+02:00"
+            "date_modified": "2019-09-15T19:32:30+02:00"
         },
         {
             "id": "https://pontedarte.org/the-garden.html",
             "url": "https://pontedarte.org/the-garden.html",
             "title": "The Garden",
-            "image": "https://pontedarte.org/media/posts/25/2019-Instagram-pontedarte-Aug142.jpg",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-5.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-5-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-8.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-21.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-21-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n</div>",
+            "image": "https://pontedarte.org/media/posts/25/P1010071-2.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
             },
             "tags": [
             ],
             "date_published": "2019-09-09T15:41:48+02:00",
-            "date_modified": "2019-09-10T00:20:11+02:00"
+            "date_modified": "2019-09-15T19:27:04+02:00"
         },
         {
             "id": "https://pontedarte.org/riverside.html",
             "url": "https://pontedarte.org/riverside.html",
             "title": "Riverside",
             "summary": "Camping site and river beach, future site for outdoor sculpture installations",
-            "content_html": "<span style=\"font-weight: 400;\">Camping site and river beach, future site for outdoor sculpture installations</span>",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/24/gallery/P1010167-2.jpg\" ><img src=\"https://pontedarte.org/media/posts/24/gallery/P1010167-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/24/gallery/Ponte-De-Mucela-40.jpg\" ><img src=\"https://pontedarte.org/media/posts/24/gallery/Ponte-De-Mucela-40-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div>\n<p><span style=\"font-weight: 400;\">Camping site and river beach, future site for outdoor sculpture installations</span></p>",
             "image": "https://pontedarte.org/media/posts/24/Ponte-De-Mucela-27.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -106,14 +121,14 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:41:23+02:00",
-            "date_modified": "2019-09-10T00:24:44+02:00"
+            "date_modified": "2019-09-15T19:13:34+02:00"
         },
         {
             "id": "https://pontedarte.org/the-rio-alva.html",
             "url": "https://pontedarte.org/the-rio-alva.html",
             "title": "The Rio Alva",
             "summary": "Swimming, caoneing, etc",
-            "content_html": "<span style=\"font-weight: 400;\">Swimming, caoneing, etc</span>",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-2.jpg\" ><img src=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-3.jpg\" ><img src=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n</div>\n<p><span style=\"font-weight: 400;\">Swimming, caoneing, etc</span></p>",
             "image": "https://pontedarte.org/media/posts/23/Ponte-De-Mucela-79.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -121,7 +136,7 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:39:17+02:00",
-            "date_modified": "2019-09-10T00:26:00+02:00"
+            "date_modified": "2019-09-15T19:24:18+02:00"
         },
         {
             "id": "https://pontedarte.org/chinese-summer-drawing-class-2016.html",
@@ -136,21 +151,6 @@
             ],
             "date_published": "2019-09-09T15:35:40+02:00",
             "date_modified": "2019-09-13T13:36:58+02:00"
-        },
-        {
-            "id": "https://pontedarte.org/broken-by-time-engaging-with-the-lie-of-the-land-2016.html",
-            "url": "https://pontedarte.org/broken-by-time-engaging-with-the-lie-of-the-land-2016.html",
-            "title": "Broken by time - 2016",
-            "summary": "In Situ3 Workshop, Sept 2016After extensive research in 2000, the Dutch Nobel&hellip;",
-            "content_html": "<h3 id=\"mcetoc_1dkl79bsu3\"><strong>In Situ<sup>3</sup> </strong><strong>Workshop, Sept 2016</strong></h3>\n<blockquote>\n<p>After extensive research in 2000, the Dutch Nobel laureate, Paul Crutzen and his colleague <a href=\"https://en.wikipedia.org/wiki/Eugene_F._Stoermer\">Eugene Stoermer</a>, from Michigan University, presented their findings about the geographical complexity of the earth over time. They came to emphasise the central role of humankind’s harmful cause and effect relation to the earth’s geological, planetary and atmospheric forces over the past two to three hundred years.</p>\n</blockquote>\n<p>The Collins English Dictionary explains:</p>\n<p><em>The lie of the land</em> in 2 ways: </p>\n<ul>\n<li>The <a href=\"http://www.collinsdictionary.com/dictionary/english/topography\"><strong>topography</strong></a> of the land,</li>\n<li>The way in which a <a href=\"http://www.collinsdictionary.com/dictionary/english/situation\">situation</a> is developing and <strong>people are </strong><a href=\"http://www.collinsdictionary.com/dictionary/english/behave\"><strong>behaving</strong></a>.</li>\n</ul>\n<p>These are essentially the 2 main concepts we will be considering during this In Situ<sup>3</sup> workshop.</p>\n<p><strong>Nature and land</strong> in this context includes the physical world and everything in it - such as plants, animals, mountains, fossils, rocks, oceans and even stars in the universe.</p>\n<p>This also incorporates <a href=\"http://dictionary.cambridge.org/dictionary/english/feature\">features</a>, <a href=\"http://dictionary.cambridge.org/dictionary/english/force\">forces</a>, and <a href=\"http://dictionary.cambridge.org/dictionary/english/process\">processes</a> that formerly <a href=\"http://dictionary.cambridge.org/dictionary/english/happen\">happen</a>ed or <a href=\"http://dictionary.cambridge.org/dictionary/english/exist\">exist</a>ed <a href=\"http://dictionary.cambridge.org/dictionary/english/independent\">independently</a> of <a href=\"http://dictionary.cambridge.org/dictionary/english/people\">people</a>, such as the <a href=\"http://dictionary.cambridge.org/dictionary/english/weather\">weather</a> patterns, the <a href=\"http://dictionary.cambridge.org/dictionary/english/production\">production</a> of <a href=\"http://dictionary.cambridge.org/dictionary/english/young\">young</a> <a href=\"http://dictionary.cambridge.org/dictionary/english/animal\">animals</a> or <a href=\"http://dictionary.cambridge.org/dictionary/english/plant\">plants</a>, and growth; therefore the <em>natural</em> forces that controlled what happened in the living world, environment, countryside, landscape, scenery</p>\n<p>This <strong>In Situ</strong> workshop is essentially orientated towards contemplation about the manner in which elements in the environment are gradually <strong>remodelled</strong> or <strong>transformed</strong> <strong>over time </strong>- either by natural forces or by processes due to human intervention.</p>\n<p>The contemporary relevance of this topic is that for the first time in the history of the earth the current geological age is viewed as the period during which human activity has been the dominant influence in environmental changes. </p>\n<p>Stoermer and his colleagues proposed using the term the <strong><em>Anthropocene era</em></strong> to refer to this current stressful global transformation triggered by humans – for example; climate change, industrialisation, urbanisation, soil erosion, change in soil nitrogen levels and the extinction of species.</p>\n<p><strong>The experiments, research and artworks resulting from this workshop may refer to:</strong></p>\n<p>Slow innate eco systems, or violent and sudden organic events; be it geographical, geological, biological OR by visible and invisible human intervention. You may refer to climatic exposure, geographic consequences, the relationship between people &amp; earth and/or ecological destruction.</p>\n<p>The site specific class is about <strong>the relationship of art to geoscience</strong> - observing and responding to activities of <strong>rupture</strong> and <strong>fragmentation</strong> in the land(scape).</p>\n<h3 id=\"mcetoc_1dkl78r5p2\">Research &amp; References</h3>\n<p><strong>Consider the following concepts and ideas to trigger your creativity:</strong></p>\n<ul>\n<li><strong>Measures of erosion and decay </strong>(Weathering, Corrosion, Decomposition, Oxidation, Destruction, Artificial deposits in soil and water, Decay and Rust).</li>\n<li><strong>Sculpted by nature </strong>(Shaped, Formed, Moulded, Constructed, Impaired, Wounded, Damaged, Ruined, Mutilated, Tugged, Shifted, Repositioned, Rearranged, Transferred, Redistributed, Extracted, Twisted, Coiled, Warped, Whittled, Rotated and Wrung).</li>\n<li><strong>Sketched by nature </strong>(Wet/Dry states, River, Upstream, Downstream, Pressure, Ruined, Destroyed, Collapsed, Crumbled, Loosened, Untangled, Undone, Torn, Tattered, Scuffed, Erased, Diminished, Unravelled, Unknotted, Unfinished, Unwrapped, Pry open, Nullified, Delineated, and Degenerated).</li>\n<li><strong>Artefacts created by natural interventions. </strong>(Bent, Reversed, Retreated, Overturned, Meandering, Entwined, Coiled, Squashed, Re-ordered, To lose ground, Transposed, Reshuffled, Coerced and Repositioned).</li>\n<li><strong>Spawned by nature </strong>(Temperatures, Oxidation, Carbon dioxide, Gravitational, Shifts, Electromagnetism, Gas, Vapour, Minerals, Floods, Droughts, Disasters, Driven, Imposed, Sensations, Migrations and Textures).</li>\n<li><strong>Strata and Levels of intervention </strong>(Sediment deposits, Residue, Dregs, Territories, Obliteration, Remains, Demolition, Constraints, Imposed, Mobius loop, Shifts, Ambling, Snaking, Turning, Separations, Layers and Rays).</li>\n<li><strong>Natural exposure </strong>(Wind, Water, Thunder, Fire Solar energy, Microbes, Bacteria, Synapse, Cracks, Separation, Meanders, Particles and Grains).</li>\n<li><strong> Elements of Time </strong>(Tempo, Pace, Cycles, Segments, Seasons, Minutes, Hours, Moments, Tides, Generations, Periods, Phases, Intervals, Interludes, Ages, Era, Epochs, Rhythms, Measures, Dots, Statistics, Degrees, Effects, Causes, Quantities, Rations, Rates, Assess, Quantify, Calculate and Record).</li>\n</ul>\n<p>(<a href=\"http://www.collinsdictionary.com/dictionary/english\">www.collinsdictionary.com/dictionary/english</a>), (<a href=\"http://www.merriam.com/dictionary/nature\">www.merriam.com/dictionary/nature</a>) (<a href=\"http://www.dictionary.cambridge.org/dictionary/english/nature\">www.dictionary.cambridge.org/dictionary/english/nature</a>).</p>\n<p> In Ponte da Mucela (Portugal) you will have the chance to develop your ideas through observing the cyclical, temporal character of the land and the exchange between nature and time.</p>\n<p><strong>We look forward to sharing your creativity.</strong></p>",
-            "image": "https://pontedarte.org/media/posts/21/thumb_P1020611_1024.jpg",
-            "author": {
-                "name": "Ponte d&#x27;Arte"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-09T15:33:50+02:00",
-            "date_modified": "2019-09-13T13:56:02+02:00"
         }
     ]
 }
