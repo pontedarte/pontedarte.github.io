@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://pontedarte.org/events-and-gatherings.html",
+            "url": "https://pontedarte.org/events-and-gatherings.html",
+            "title": "Events",
+            "summary": "The complex is currently undergoing conversion to become a meeting centre with&hellip;",
+            "content_html": "<p>The complex is currently undergoing conversion to become a meeting centre with large and small exhibition spaces, 300m<sup>2</sup> gallery/concert hall, video rooms, a conference room, an art library, studios and workshops, and a small local museum. </p>",
+            "image": "https://pontedarte.org/media/posts/32/2019-Instagram-pontedarte-Aug123.jpg",
+            "author": {
+                "name": "Ponte d&#x27;Arte"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-16T14:10:58+02:00",
+            "date_modified": "2019-09-16T14:12:35+02:00"
+        },
+        {
             "id": "https://pontedarte.org/shared-accommodation.html",
             "url": "https://pontedarte.org/shared-accommodation.html",
             "title": "Shared accommodation",
@@ -20,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2019-09-15T19:29:55+02:00",
-            "date_modified": "2019-09-15T19:29:55+02:00"
+            "date_modified": "2019-09-16T13:52:25+02:00"
         },
         {
             "id": "https://pontedarte.org/conimbriga.html",
@@ -55,7 +70,7 @@
             "url": "https://pontedarte.org/celia-de-villiers.html",
             "title": "Celia de Villiers",
             "summary": "BiographyCelia de Villiers has three tertiary qualifications, including a MA in Visual&hellip;",
-            "content_html": "<h3 id=\"mcetoc_1dkb61pgh0\">Biography</h3>\n<p>Celia de Villiers has three tertiary qualifications, including a MA in Visual Arts (cum laude). A fellow of the the Sacatar foundation of California, she has also been credited by the World Craft Council, and endorsed by UNESCO. She has exhibited, curated and adjudicated extensively in South Africa and abroad, as well as presented and published academic articles in South Africa, the United States, Brazil, Romania, Belgium and France.</p>\n<p>Her two and three-dimensional artworks in various media are held in corporate, museum and private collections such as the Raiffeisen Bank, Germany, Landesbank, Germany, Le Tousserok Sun International Hotel, Mauritius, UNISA, EnviroServ and the Development Bank, South Africa, Michigan State University, and the Museum of Art and Design, New York.</p>\n<p>The artist has facilitated and consulted for community outreach and social art initiatives for eighteen years, and won government awards for job creation in the arts and crafts sector in South Africa. She has served on the board of the UNISA gallery, the EnviroServ WasteArt Foundation, the SA government department of Arts and Culture, and the SA Bureau of Standards for Craft.</p>\n<p>De Villiers has lectured in Drawing, Painting, Sculpture, Conceptualisation and Art theory from first to postgraduate level at the University of South Africa, The Design School of South Africa and the University of Pretoria between 2001 to 2018, as well as presenting workshops internationally.</p>\n<p>She relocated from South Africa to Europe in 2015, where she spends her time between Belgium and Portugal. Most recently she has been a guest lecturer at the Royal Academy of Art in Antwerp (2015 -2018), engaged in a European Union funded project between universities in Dublin, Ireland, Turku, Finland and Zagreb, Croatia (2016 - 2018).</p>\n<p>She is a co-director of Ponte d’ Arte, an Artistic Hub and Residency near Coimbra, Portugal, whilst remaining a passionate crafter and artist.</p>\n<p> </p>\n<p> </p>\n<p>See her work at <a href=\"http://www.celiadevilliers.com\">http://www.celiadevilliers.com</a>.</p>",
+            "content_html": "<h3 id=\"mcetoc_1dkb61pgh0\">Biography</h3>\n<p>Celia de Villiers has three tertiary qualifications, including a MA in Visual Arts (cum laude). A fellow of the the Sacatar foundation of California, she has also been credited by the World Craft Council, and endorsed by UNESCO. She has exhibited, curated and adjudicated extensively in South Africa and abroad, as well as presented and published academic articles in South Africa, the United States, Brazil, Romania, Belgium and France.</p>\n<p>Her two and three-dimensional artworks in various media are held in corporate, museum and private collections such as the Raiffeisen Bank, Germany, Landesbank, Germany, Le Tousserok Sun International Hotel, Mauritius, UNISA, EnviroServ and the Development Bank, South Africa, Michigan State University, and the Museum of Art and Design, New York.</p>\n<p>The artist has facilitated and consulted for community outreach and social art initiatives for eighteen years, and won government awards for job creation in the arts and crafts sector in South Africa. She has served on the board of the UNISA gallery, the EnviroServ WasteArt Foundation, the SA government department of Arts and Culture, and the SA Bureau of Standards for Craft.</p>\n<p>De Villiers has lectured in Drawing, Painting, Sculpture, Conceptualisation and Art theory from first to postgraduate level at the University of South Africa, The Design School of South Africa and the University of Pretoria between 2001 to 2018, as well as presenting workshops internationally.</p>\n<p>She relocated from South Africa to Europe in 2015, where she spends her time between Belgium and Portugal. Most recently she has been a guest lecturer at the Royal Academy of Art in Antwerp (2015 -2018), engaged in a European Union funded project between universities in Dublin, Ireland, Turku, Finland and Zagreb, Croatia (2016 - 2018).</p>\n<p>She is a co-director of Ponte d’ Arte, an Artistic Hub and Residency near Coimbra, Portugal, whilst remaining a passionate crafter and artist.</p>\n<p>See her work at <a href=\"http://www.celiadevilliers.com\">http://www.celiadevilliers.com</a>.</p>",
             "image": "https://pontedarte.org/media/posts/28/celia.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -63,14 +78,14 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:59:39+02:00",
-            "date_modified": "2019-09-15T19:06:52+02:00"
+            "date_modified": "2019-09-15T21:42:03+02:00"
         },
         {
             "id": "https://pontedarte.org/kris-van-t-hof.html",
             "url": "https://pontedarte.org/kris-van-t-hof.html",
             "title": "Kris van ‘t Hof",
-            "summary": " Kris van ‘t Hof designs, co-produces and teaches situation-specific art projects&hellip;",
-            "content_html": "<p> </p>\n<h3 id=\"mcetoc_1dkb502sf1\">Biography</h3>\n<p>Kris van ‘t Hof designs, co-produces and teaches situation-specific art projects and practices. He specialised in Monumental and Environmental Arts at the Royal Academy of Fine Arts (KASKA), Antwerp, BE, and at Masters of Fine Art level at the National Higher Institute of Fine Arts (HISK). He is teaching in the <em>In Situ</em> department and also lectures in figure drawing and conceptual art up to post-graduate level at KASKA. He was awarded a fellowship in arts-and-cultural heritage by the Andrew W. Mellon Foundation in 2014.</p>\n<p>Van ‘t Hof organises international workshops and study trips promoting transnational artworks and the collaboration of artists. He has been a guest professor at Universities in Krakow, La Laguna, Turku, Roma, Oslo, Athina, Delphi, Rethymnon, Syros &amp; Hydra, Sofia, Varna, Praha, Porto, Lisbon, Leiria, Dublin, Sevilla and Zagreb in Europe, Sarasota (US), Pretoria, Midrand and Johannesburg (South Africa).</p>\n<p>He has adjudicated several art competitions in Europe and has received numerous awards for his own artworks, such as from OPEL, Belgium. Van t’ Hof has completed eighteen public art projects (two-and three-dimensional works) and designed stage sets, amongst them for the National Opera in Brussels and the Royal Ballet in Flanders. His paintings are in private and corporate collections worldwide.</p>\n<p>Most recently (2015 – 2018) he has been engaged in IPIP (<em>In Public in Particular</em>) with art academies in Turku, Dublin, Zagreb and Antwerp, funded by Creative Europe. Its manifestations included social interactive projects, performance art happenings and collaborative community parades in Antwerp, BE, art-directed and co-ordinated by Van T’Hof.</p>\n<p>A key component of this research concerns the engagement and development of audiences; specifically focused on working in local situations and small neighbourhoods. Practice-led research reports are available for download (<a href=\"http://ipip-project.eu\">http://ipip-project.eu</a>) and in print (<em>In public in particular - art and exchange in four European cities, </em>November 2018).</p>\n<p>With the South African artist Celia de Villiers, Kris Van ‘t Hof co-directs the residency and teaching programme at Ponte d’ Arte (Arts Bridge), in Ponte da Mucela, near Coimbra in central Portugal.</p>\n<p> </p>\n<p><strong>Contact:</strong></p>\n<p> </p>\n<p><a href=\"mailto:kris.vanthof@ap.be\">kris.vanthof@ap.be</a></p>\n<p>ponte.d.arte.portugal@gmail.com</p>\n<p>Studio: 0032 473 91 62 27</p>\n<p>http://<a href=\"http://www.krisvanthof.com\">www.krisvanthof.com</a> </p>",
+            "summary": "BiographyKris van ‘t Hof designs, co-produces and teaches situation-specific art projects and&hellip;",
+            "content_html": "<h3 id=\"mcetoc_1dkr6v5vd0\">Biography</h3>\n<p>Kris van ‘t Hof designs, co-produces and teaches situation-specific art projects and practices. He specialised in Monumental and Environmental Arts at the Royal Academy of Fine Arts (KASKA), Antwerp, BE, and at Masters of Fine Art level at the National Higher Institute of Fine Arts (HISK). He is teaching in the <em>In Situ</em> department and also lectures in figure drawing and conceptual art up to post-graduate level at KASKA. He was awarded a fellowship in arts-and-cultural heritage by the Andrew W. Mellon Foundation in 2014.</p>\n<p>Van ‘t Hof organises international workshops and study trips promoting transnational artworks and the collaboration of artists. He has been a guest professor at Universities in Krakow, La Laguna, Turku, Roma, Oslo, Athina, Delphi, Rethymnon, Syros &amp; Hydra, Sofia, Varna, Praha, Porto, Lisbon, Leiria, Dublin, Sevilla and Zagreb in Europe, Sarasota (US), Pretoria, Midrand and Johannesburg (South Africa).</p>\n<p>He has adjudicated several art competitions in Europe and has received numerous awards for his own artworks, such as from OPEL, Belgium. Van t’ Hof has completed eighteen public art projects (two-and three-dimensional works) and designed stage sets, amongst them for the National Opera in Brussels and the Royal Ballet in Flanders. His paintings are in private and corporate collections worldwide.</p>\n<p>Most recently (2015 – 2018) he has been engaged in IPIP (<em>In Public in Particular</em>) with art academies in Turku, Dublin, Zagreb and Antwerp, funded by Creative Europe. Its manifestations included social interactive projects, performance art happenings and collaborative community parades in Antwerp, BE, art-directed and co-ordinated by Van t' Hof.</p>\n<p>A key component of this research concerns the engagement and development of audiences; specifically focused on working in local situations and small neighbourhoods. Practice-led research reports are available for download (<a href=\"http://ipip-project.eu\">http://ipip-project.eu</a>) and in print (<em>In public in particular - art and exchange in four European cities, </em>November 2018).</p>\n<p>With the South African artist Celia de Villiers, Kris Van ‘t Hof co-directs the residency and teaching programme at Ponte d’ Arte (Arts Bridge), in Ponte da Mucela, near Coimbra in central Portugal.</p>\n<p> See his work at http://<a href=\"http://www.krisvanthof.com\">www.krisvanthof.com</a> </p>",
             "image": "https://pontedarte.org/media/posts/27/kris-and-sheep.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -78,7 +93,7 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:57:49+02:00",
-            "date_modified": "2019-09-14T23:55:17+02:00"
+            "date_modified": "2019-09-15T21:43:27+02:00"
         },
         {
             "id": "https://pontedarte.org/the-adega-library-and-meetings.html",
@@ -137,20 +152,6 @@
             ],
             "date_published": "2019-09-09T15:39:17+02:00",
             "date_modified": "2019-09-15T19:24:18+02:00"
-        },
-        {
-            "id": "https://pontedarte.org/chinese-summer-drawing-class-2016.html",
-            "url": "https://pontedarte.org/chinese-summer-drawing-class-2016.html",
-            "title": "Drawing &amp; Painting for Beginners - 2016",
-            "summary": "Art Practice Workshop, 18- 30 July 2016 Drawing, painting and environmental interventions&hellip;",
-            "content_html": "<h3 id=\"mcetoc_1dkl6bhpq0\" class=\"p1\"><strong>Art Practice Workshop, 18- 30 July 2016</strong></h3>\n<p class=\"p1\"> </p>\n<p class=\"p1\" style=\"margin-top: 0px; font-size: 16.8475px;\">Drawing, painting and environmental interventions in the landscape.  Diverse angles with a different objective in mind each day (contrast, rhythm, linear qualities, composition and perspectives).</p>\n<p class=\"p1\"><span style=\"font-size: 16.8475px; font-family: -apple-system, BlinkMacSystemFont, Arial, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';\">Professors: Celia de Villiers and Kris van ’t Hof.</span></p>\n<ul>\n<li class=\"p1\">Morning programme (10 till 12 a.m.) drawing/painting outdoors</li>\n<li class=\"p1\">Lunch break (12 a.m. till 2 p.m.)</li>\n<li class=\"p1\">Afternoon programme (2 till 4 p.m.) Figure drawing indoors (with a professional Model and personalities from the village) 2 hours sketching in various classic and experimental ways.</li>\n<li class=\"p1\">Feedback and discussions: (4 till ±6 p.m.)</li>\n</ul>\n<p class=\"p1\"> </p>\n<br>\n<p> </p>",
-            "author": {
-                "name": "Ponte d&#x27;Arte"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-09T15:35:40+02:00",
-            "date_modified": "2019-09-13T13:36:58+02:00"
         }
     ]
 }
