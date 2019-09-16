@@ -14,7 +14,7 @@
             "url": "https://pontedarte.org/contact-us.html",
             "title": "Contact us",
             "summary": " Thank you for your interest in Ponte d'Arte. We'd love to&hellip;",
-            "content_html": "<blockquote>\n<p> </p>\n<p>Thank you for your interest in Ponte d'Arte.</p>\n<p>We'd love to hear from you.<br><br>Regards,</p>\n<p><a href=\"https://pontedarte.org/kris-van-t-hof.html\">Kris</a> &amp; <a href=\"https://pontedarte.org/celia-de-villiers.html\">Celia</a></p>\n</blockquote>\n<table border=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td width=\"20%\"> </td>\n<td width=\"60%\">\n<h2 id=\"mcetoc_1dktj1pb42\">Your message</h2>\n</td>\n<td width=\"20%\"> </td>\n</tr>\n<tr>\n<td> </td>\n<td bgcolor=\"olive\" width=\"60%\"><form action=\"https://formspree.io/pontedarte.artsbridge@gmail.com\" method=\"POST\">\n<p><input name=\"email\" type=\"email\" placeholder=\"Your email\"></p>\n<p><textarea cols=\"40\" name=\"message\" rows=\"10\" placeholder=\"Message\"></textarea></p>\n<p><button type=\"submit\">SEND</button></p>\n</form></td>\n<td>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>",
+            "content_html": "<blockquote>\n<p> </p>\n<p>Thank you for your interest in Ponte d'Arte.</p>\n<p>We'd love to hear from you.<br><br>Regards,</p>\n<p><a href=\"https://pontedarte.org/kris-van-t-hof.html\">Kris</a> &amp; <a href=\"https://pontedarte.org/celia-de-villiers.html\">Celia</a></p>\n<p> </p>\n</blockquote>\n<table border=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td width=\"20%\"> </td>\n<td width=\"60%\">\n<h2 id=\"mcetoc_1dktj1pb42\">Your message</h2>\n</td>\n<td width=\"20%\"> </td>\n</tr>\n<tr>\n<td bgcolor=\"white\"> </td>\n<td bgcolor=\"olive\" width=\"60%\"><form action=\"https://formspree.io/pontedarte.artsbridge@gmail.com\" method=\"POST\">\n<p><input name=\"email\" type=\"email\" placeholder=\"Your email\"></p>\n<p><textarea cols=\"40\" name=\"message\" rows=\"10\" placeholder=\"Message\"></textarea></p>\n<p><button type=\"submit\">SEND</button></p>\n</form></td>\n<td bgcolor=\"white\">\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>",
             "image": "https://pontedarte.org/media/posts/33/P1050002.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-09-16T18:17:47+02:00",
-            "date_modified": "2019-09-16T19:48:48+02:00"
+            "date_modified": "2019-09-16T19:58:29+02:00"
         },
         {
             "id": "https://pontedarte.org/events-and-gatherings.html",
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2019-09-16T14:10:58+02:00",
-            "date_modified": "2019-09-16T14:12:35+02:00"
+            "date_modified": "2019-09-16T20:03:35+02:00"
         },
         {
             "id": "https://pontedarte.org/shared-accommodation.html",
@@ -130,7 +130,7 @@
             "id": "https://pontedarte.org/the-garden.html",
             "url": "https://pontedarte.org/the-garden.html",
             "title": "The Garden",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-5.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-5-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-8.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-21.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-21-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n</div>",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-5.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-5-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-8.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-insta-ponte-8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/25/gallery/2019-Instagram-pontedarte-Aug142.jpg\" ><img src=\"https://pontedarte.org/media/posts/25/gallery/2019-Instagram-pontedarte-Aug142-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n</div>",
             "image": "https://pontedarte.org/media/posts/25/P1010071-2.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -138,7 +138,7 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:41:48+02:00",
-            "date_modified": "2019-09-15T19:27:04+02:00"
+            "date_modified": "2019-09-16T20:03:13+02:00"
         },
         {
             "id": "https://pontedarte.org/riverside.html",
