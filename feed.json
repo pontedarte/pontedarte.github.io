@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://pontedarte.org/contact-us.html",
+            "url": "https://pontedarte.org/contact-us.html",
+            "title": "Contact us",
+            "summary": "Thank you for your interest in Ponte d'Arte. We'd love to hear&hellip;",
+            "content_html": "<blockquote>\n<p>Thank you for your interest in Ponte d'Arte.</p>\n<p>We'd love to hear from you.<br><br>Regards,</p>\n<p><a href=\"https://pontedarte.org/kris-van-t-hof.html\">Kris</a> &amp; <a href=\"https://pontedarte.org/celia-de-villiers.html\">Celia</a></p>\n</blockquote>\n<p> </p>\n<form action=\"https://formspree.io/pontedarte.artsbridge@gmail.com\" method=\"POST\"><input name=\"email\" type=\"email\" placeholder=\"Your email\"> <textarea name=\"message\" placeholder=\"Test Message\"></textarea> <button type=\"submit\">Send Test</button></form>",
+            "image": "https://pontedarte.org/media/posts/33/P1050002.jpg",
+            "author": {
+                "name": "Ponte d&#x27;Arte"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-16T18:17:47+02:00",
+            "date_modified": "2019-09-16T18:58:47+02:00"
+        },
+        {
             "id": "https://pontedarte.org/events-and-gatherings.html",
             "url": "https://pontedarte.org/events-and-gatherings.html",
             "title": "Events",
@@ -41,6 +56,8 @@
             "id": "https://pontedarte.org/conimbriga.html",
             "url": "https://pontedarte.org/conimbriga.html",
             "title": "Conimbriga",
+            "summary": "Conímbriga is one of the largest Roman settlements excavated in Portugal, and was classified as a National&hellip;",
+            "content_html": "<p><strong>Conímbriga</strong> is one of the largest <a href=\"https://en.wikipedia.org/wiki/Roman_Empire\" title=\"Roman Empire\">Roman</a> settlements excavated in <a href=\"https://en.wikipedia.org/wiki/Portugal\" title=\"Portugal\">Portugal</a>, and was classified as a <a href=\"https://en.wikipedia.org/wiki/Monuments_of_Portugal\" class=\"mw-redirect\" title=\"Monuments of Portugal\">National Monument</a> in 1910. Located in the <a href=\"https://en.wikipedia.org/wiki/Freguesia_(Portugal)\" class=\"mw-redirect\" title=\"Freguesia (Portugal)\">civil parish</a> of Condeixa-a-Velha e Condeixa-a-Nova, in the <a href=\"https://en.wikipedia.org/wiki/Concelho\" title=\"Concelho\">municipality</a> of <a href=\"https://en.wikipedia.org/wiki/Condeixa-a-Nova\" title=\"Condeixa-a-Nova\">Condeixa-a-Nova</a>, it is situated 2 kilometres (1.2 mi) from the municipal seat and 16 kilometres (9.9 mi) from <a href=\"https://en.wikipedia.org/wiki/Coimbra\" title=\"Coimbra\">Coimbra</a> (the Roman town of <i><a href=\"https://en.wikipedia.org/wiki/Aeminium\" title=\"Aeminium\">Aeminium</a></i>).</p>\n<p>Conímbriga is a walled urban settlement, encircled by a curtain of stone structures approximately 1,500 metres (4,900 ft) long. Entrance to the settlement is made from vaulted structures consisting of two doors (one on hinges), and at one time was defended by two towers. The walls are paralleled by two passages, channelled to excavations, in order to remove water infiltration from the walls. The urban settlement consists of various structures such as a forum, basilica and commercial shops, thermal spas, aqueducts, insulae, homes of various heights (including interior patios) and <a href=\"https://en.wikipedia.org/wiki/Domus\" title=\"Domus\">domus</a> (such as the <i>Casa dos Repuxos</i> and <i>Casa de Cantaber</i>), in addition to paleo-Christian basilica.</p>\n<p>A visitors' centre (which includes restaurant/café and gift-shop) was constructed to display objects found by archaeologists during their excavations, including coins, surgical tools, utensils and ceramics.</p>",
             "image": "https://pontedarte.org/media/posts/30/Conimbriga_calling_article.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -48,14 +65,14 @@
             "tags": [
             ],
             "date_published": "2019-09-09T16:07:44+02:00",
-            "date_modified": "2019-09-10T00:42:49+02:00"
+            "date_modified": "2019-09-16T18:44:23+02:00"
         },
         {
             "id": "https://pontedarte.org/bussaco-palace.html",
             "url": "https://pontedarte.org/bussaco-palace.html",
             "title": "Bussaco Palace",
-            "summary": "The Neo-Manueline was a revival architecture and decorative arts style developed in Portugal&hellip;",
-            "content_html": "The Neo-Manueline was a revival architecture and decorative arts style developed in Portugal between the middle of the 19th century and the beginning of the 20th century. The style adopted the characteristics of the Manueline (or Portuguese Final Gothic) of the 16th century.",
+            "summary": "History The Bussaco Palace was built between 1888 and 1907.The palace, commissioned by&hellip;",
+            "content_html": "<div id=\"block-dexp-page-elements-dexp-page-elements-page-title\" class=\"block block-dexp-page-elements\">\n<div class=\"content\">\n<div class=\"page_title_no_sub\">\n<h2 id=\"mcetoc_1dktfhua00\" class=\"page_title\">History</h2>\n</div>\n</div>\n</div>\n<div id=\"block-views-hotel-block\" class=\"block block-views\">\n<div class=\"inner\"> </div>\n<div class=\"inner\">The Bussaco Palace was built between 1888 and 1907.</div>\n<div class=\"content\">\n<div class=\"view view-hotel view-id-hotel view-display-id-block Hotel view-dom-id-e8dd7ade732ed5a92e96c1872f6bb565\">\n<div class=\"view-content\">\n<div class=\"views-row views-row-1 views-row-odd views-row-first views-row-last\">\n<div>\n<div class=\"text\">\n<p>The palace, commissioned by King Charles I of Portugal as a royal retreat, embodies the contemporaneous architectural fashion known as castle romanticism ( German: Burgenromantik) and all the national enthusiasm for the Age of the Discoveries.</p>\n<p>By late 19th century, many castles were picturesquely constructed and abandoned castles were transformed into historic palaces - Neuschwanstein Castle, Lichtenstein Castle, Hohenzollern Castle, Stolzenfels Castle, Wartburg Castle and the Château de Pierrefonds are major examples of this trend. Charles, Ferdinand of Saxe-Coburg Gotha’s grandson, was naturally influenced by this ideal.</p>\n<p>Initial ideas for the palace drew stylistically on a Falkenstein Castle, Ludwig II of Bavaria’s project that never left planning stages, to be built on the western slope of the hill, by the Coimbra Gates, but were quickly replaced by increasingly extensive drafts culminating in a Neo-Manueline style palace, modeled on the Belém Tower of Lisbon, the major symbol of the Portuguese Discoveries. Also the projected location was transferred to the site of the convent, so that part of it could be transformed into the new palace, matching the romantic ideal of a knight’s castle, hidden from view by dense, skyscraping trees. The young King’s romantic vision of a picturesque new Belém Tower amidst a tranquil green botanic ocean had to be fulfilled …</p>\n<p>The building design was drafted by the Italian architect and National Opera House stage designer Luigi Manini, brought to Portugal by Queen Maria Pia of Savoy, Charles’s mother, and daughter of Victor Emmanuel II of Italy. He drafted a Romantic palace in Neo-Manueline gothic style, evoking the 16th-century architectural style that characterized the peak of the Portuguese Age of Discovery.</p>\n<p>Manini was succeeded by architects Nicola Bigaglia, José Alexandre Soares and Manuel Joaquim Norte Júnior, the latter responsible for the annex “Casa dos Brasões” (House of the Coat-of-Arms), and also for the extraordinary Curia Palace and for the renowned “Café a Brasileira”, in Lisbon.</p>\n<p>The inner rooms are richly decorated with Neo-Manueline portals and stucco work imitating Manueline rib vaulting, being also an important showcase of Portuguese painting and sculpture of the early 20th century. The inner walls are also decorated with tile (azulejos) panels by Jorge Colaço. These panels depict scenes taken from Portuguese literature as well as historical events like the Battle of Bussaco.</p>\n<p>In 1885 - exactly one year after Ludwig II moved to the still unfinished Neuschwanstein Castle - the dining hall , the kitchen, the library and some cells of the convent were demolished and the foundation stone was laid.</p>\n<p>The palace was erected as a conventional brick construction and later encased with other types of rock, mainly limestone from a nearby quarry, sandstone from nearby Ançã, and marble from Vila Viçosa, in the Alentejo. The forest also provided essential conifers, oak, and chestnut premium quality woods.</p>\n<p>For about 25 years the construction site was the principal employer of the region and of all major Portuguese artists of the period.</p>\n<p>The palace consists of several individual structures, and the main building – a flurry of excesses and a hotchpotch of styles - is furnished with a rectangular tower overlooking the Atlantic coastline, ornamental turrets, gables and gargoyles, balconies, pinnacles, arches and sculptures.</p>\n<p>Following Romanesque style, some windows openings are fashioned as bi- and triforia.</p>\n<p>Unlike “real” castles, Bussaco Palace was planned from the inception as an intentionally asymmetric building, and erected in consecutive stages. Typical attributes of a castle were included, but real fortifications – the most important feature of a medieval aristocratic estate – were dispensed with.</p>\n<p>Today the palace is a fully functioning luxury hotel, and can be visited as part of a tour of the Bussaco complex.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
             "image": "https://pontedarte.org/media/posts/29/1280px-Palacio_Hotel_de_Bussaco_XL.jpg",
             "author": {
                 "name": "Ponte d&#x27;Arte"
@@ -63,7 +80,7 @@
             "tags": [
             ],
             "date_published": "2019-09-09T16:07:18+02:00",
-            "date_modified": "2019-09-09T23:49:56+02:00"
+            "date_modified": "2019-09-16T18:48:52+02:00"
         },
         {
             "id": "https://pontedarte.org/celia-de-villiers.html",
@@ -78,7 +95,7 @@
             "tags": [
             ],
             "date_published": "2019-09-09T15:59:39+02:00",
-            "date_modified": "2019-09-15T21:42:03+02:00"
+            "date_modified": "2019-09-16T18:49:54+02:00"
         },
         {
             "id": "https://pontedarte.org/kris-van-t-hof.html",
@@ -137,21 +154,6 @@
             ],
             "date_published": "2019-09-09T15:41:23+02:00",
             "date_modified": "2019-09-15T19:13:34+02:00"
-        },
-        {
-            "id": "https://pontedarte.org/the-rio-alva.html",
-            "url": "https://pontedarte.org/the-rio-alva.html",
-            "title": "The Rio Alva",
-            "summary": "Swimming, caoneing, etc",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-2.jpg\" ><img src=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-3.jpg\" ><img src=\"https://pontedarte.org/media/posts/23/gallery/2019-insta-ponte-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"960\"></a></figure>\n</div>\n<p><span style=\"font-weight: 400;\">Swimming, caoneing, etc</span></p>",
-            "image": "https://pontedarte.org/media/posts/23/Ponte-De-Mucela-79.jpg",
-            "author": {
-                "name": "Ponte d&#x27;Arte"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-09T15:39:17+02:00",
-            "date_modified": "2019-09-15T19:24:18+02:00"
         }
     ]
 }
