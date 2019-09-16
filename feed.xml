@@ -3,7 +3,7 @@
     <title>Ponte d&#x27;Arte, Portugal</title>
     <link href="https://pontedarte.org/feed.xml" rel="self" />
     <link href="https://pontedarte.org" />
-    <updated>2019-09-16T18:59:00+02:00</updated>
+    <updated>2019-09-16T19:49:02+02:00</updated>
     <author>
         <name>Ponte d&#x27;Arte</name>
     </author>
@@ -17,23 +17,50 @@
         <link href="https://pontedarte.org/contact-us.html"/>
         <id>https://pontedarte.org/contact-us.html</id>
 
-        <updated>2019-09-16T18:58:47+02:00</updated>
+        <updated>2019-09-16T19:48:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pontedarte.org/media/posts/33/P1050002.jpg" alt="" />
-                    Thank you for your interest in Ponte d'Arte. We'd love to hear&hellip;
+                     Thank you for your interest in Ponte d'Arte. We'd love to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://pontedarte.org/media/posts/33/P1050002.jpg" alt="" />
                 <blockquote>
+<p> </p>
 <p>Thank you for your interest in Ponte d'Arte.</p>
 <p>We'd love to hear from you.<br><br>Regards,</p>
 <p><a href="https://pontedarte.org/kris-van-t-hof.html">Kris</a> &amp; <a href="https://pontedarte.org/celia-de-villiers.html">Celia</a></p>
 </blockquote>
+<table border="0" width="100%">
+<tbody>
+<tr>
+<td width="20%"> </td>
+<td width="60%">
+<h2 id="mcetoc_1dktj1pb42">Your message</h2>
+</td>
+<td width="20%"> </td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="olive" width="60%"><form action="https://formspree.io/pontedarte.artsbridge@gmail.com" method="POST">
+<p><input name="email" type="email" placeholder="Your email"></p>
+<p><textarea cols="40" name="message" rows="10" placeholder="Message"></textarea></p>
+<p><button type="submit">SEND</button></p>
+</form></td>
+<td>
 <p> </p>
-<form action="https://formspree.io/pontedarte.artsbridge@gmail.com" method="POST"><input name="email" type="email" placeholder="Your email"> <textarea name="message" placeholder="Test Message"></textarea> <button type="submit">Send Test</button></form>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
