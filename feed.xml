@@ -3,7 +3,7 @@
     <title>Ponte d&#x27;Arte, Portugal</title>
     <link href="https://pontedarte.org/feed.xml" rel="self" />
     <link href="https://pontedarte.org" />
-    <updated>2019-09-17T16:13:14+02:00</updated>
+    <updated>2019-09-17T21:32:21+02:00</updated>
     <author>
         <name>Ponte d&#x27;Arte</name>
     </author>
@@ -246,14 +246,22 @@
         <link href="https://pontedarte.org/the-adega-library-and-meetings.html"/>
         <id>https://pontedarte.org/the-adega-library-and-meetings.html</id>
 
-        <updated>2019-09-15T19:32:30+02:00</updated>
-            <summary></summary>
+        <updated>2019-09-17T21:32:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pontedarte.org/media/posts/26/IMG_20190915_125215.jpg" alt="The Adega at Ponte d&#x27;Arte Portugal" />
+                    The Adega (former wine press) houses a meeting space, library for small&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pontedarte.org/media/posts/26/bookshelf-413705_1920.jpg" alt="" />
-                <div class="gallery"   >
+                    <img src="https://pontedarte.org/media/posts/26/IMG_20190915_125215.jpg" alt="The Adega at Ponte d&#x27;Arte Portugal" />
+                <p>The Adega (former wine press) houses a meeting space, library for small groups (10 people max).  It includes a kitchen, dining area and patio.</p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="https://pontedarte.org/media/posts/26/gallery/IMG_20190308_145621-HDR2-.jpg" ><img src="https://pontedarte.org/media/posts/26/gallery/IMG_20190308_145621-HDR2--thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.org/media/posts/26/gallery/IMG_20190915_125239.jpg" ><img src="https://pontedarte.org/media/posts/26/gallery/IMG_20190915_125239-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div>
+<p> </p>
             ]]>
         </content>
     </entry>
